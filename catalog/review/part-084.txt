@@ -1,0 +1,24 @@
+p773|noodle|王牌 韩式荞麦冷面（含料包）|Wang Korean Buckwheat Cold Noodles with Seasoning|283g|4.25||
+p774|noodle|膳府 济州绿茶面|Sempio Green Tea Noodles with Jeju Green Tea Powder|300g|4.50||
+p775|noodle|Eaglobe 日式素面|Eaglobe Somen Noodles|400g|3.45||
+p776|noodle|真拉 新疆拉条子挂面|ZhenLa Xinjiang Wheat Noodles|225g|2.25||
+p777|noodle|晶星 荞麦面|Jingxing Soba Noodles|300g|2.40||
+p778|noodle|徽记 手工日晒面 小刀削菠菜面|HJ Hand-Made Sun-Dried Wheat Noodles Spinach|410g|4.20|sale=3.36|
+p779|noodle|厨之选 荞麦面（鲜湿面）|Chef's Choice Soft Soba Noodles|400g|4.20||
+p780|noodle|厨之选 多彩蔬菜面（荞麦·紫薯·菠菜·拉面）|Chef's Choice Soft Assorted Vegetable Noodles|400g|4.50||
+p781|noodle|谷香 玉米面条|GuXiang Corn Noodles|250g|2.25||
+p782|noodle|真拉 新疆手工黄面|ZhenLa Hand-Made Yellow Wheat Noodles|485g|4.95||
+p783|noodle|晶星 武汉热干面（碱水面）|Jingxing Wuhan Style Hot Dry Noodles|900g|5.50||
+p784|noodle|真拉 新疆大盘鸡宽面|ZhenLa Xinjiang Wide Wheat Noodles for Big Plate Chicken|800g|8.50||
+p785|noodle|晶星 河南手擀面|Jingxing Henan Style Noodles|2kg|8.50||
+p786|noodle|晶星 四川担担面|Jingxing Sichuan Dan Dan Noodles|2kg|8.50||
+p787|noodle|晶星 兰州拉面|Jingxing Lanzhou Ramen Noodles|2kg|8.50||
+p788|noodle|晶星 老北京挂面|Jingxing Old Beijing Noodles|2kg|8.50||
+p789|instant|白象 汤好喝 辣牛肉汤面|Baixiang Yummy Soup Instant Noodles Spicy Beef|111g|1.99||整箱30包 40.50€
+p790||||||| dup=p789
+p791|instant|白象 汤好喝 羊肉汤面（清真）|Baixiang Yummy Soup Instant Noodles Mutton Soup (Halal)|103g|1.99||
+p792|instant|张顺心×嗨吃家 西红柿鸡蛋面（桶装）|Zhang Shunxin × Haichijia Tomato & Egg Noodle Cup|167g|2.80||
+p793|instant|阿宽 重庆小面 麻辣味|A-Kuan Chongqing Noodles Spicy Hot|100g|2.25||
+p794|instant|阿宽 红油面皮 麻辣味|A-Kuan Red Oil Broad Noodles Mala|110g|2.25||
+p795||||||| dup=p247
+p796|instant|康师傅 鲜虾鱼板面 5连包|Master Kong Instant Noodles Seafood Flavor (5-Pack)|5×98g|8.50||

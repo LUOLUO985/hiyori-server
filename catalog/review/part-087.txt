@@ -1,0 +1,24 @@
+p797|instant|康师傅 葱香排骨面 5连包|Master Kong Instant Noodles Pork & Fried Shallots (5-Pack)|5×104g|8.50||
+p798|noodle|厨之选 Q弹玉米面条（无麸质）|Chef's Pick Chewy Corn Noodles Gluten-Free|1kg|6.80|sale=5.00|
+p799|noodle|千顷田 快熟面（原味）|VNV Land Quick Cooking Noodles|500g|1.95||
+p800|instant|白象 汤好喝 招牌猪骨汤面|Baixiang Yummy Soup Instant Noodles Pork Bone Soup|113g|1.99||整箱30包 40.50€
+p801|meat|万德福 经典火腿肠 9支装|Wanderfort Classic Ham Sausage (9 pcs)|9×30g|7.80||单支 30g 另售 0.99€
+p802|meat|万德福 泡面搭档香肠 单支|Wanderfort Noodle Sausage (Single)|30g|0.99||
+p803|meat|万德福 泡面搭档香肠 9支装|Wanderfort Noodle Sausage (9 pcs)|9×30g|7.80||
+p804|meat|万德福 玉米鸡肉肠 9支装|Wanderfort Chicken Corn Sausage (9 pcs)|270g|7.50||单支 30g 另售 0.99€
+p805|instant|康师傅 鲜虾鱼板面|Master Kong Instant Noodles Seafood Flavor|98g|1.99||
+p806|instant|康师傅 葱香排骨面|Master Kong Instant Noodles Pork & Fried Shallots|104g|1.99|-20%|
+p807|instant|康师傅 香菇炖鸡面|Master Kong Instant Noodles Shiitake & Chicken|100g|1.99||
+p808|instant|康师傅 香菇炖鸡面 5连包|Master Kong Instant Noodles Shiitake & Chicken (5-Pack)|5×100g|8.50||
+p809|noodle|杨协成 Ezy-Cook 快熟面|Yeo's Ezy-Cook Noodles|400g|2.65||
+p810|drink|HIGH UP 三丽鸥库洛米 弹珠汽水 葡萄味|High Up Sanrio Kuromi Ramune Soda Grape|330ml|2.85||
+p811|instant|三养 火鸡面 芝士味|Samyang Buldak Hot Chicken Ramen Cheese|140g|2.40||
+p812|instant|三养 火鸡面 奶油培根味（Carbonara）|Samyang Buldak Hot Chicken Ramen Carbonara|130g|2.60||
+p813|instant|三养 韩式甜辣炸鸡味火鸡面|Samyang Buldak Yangnyeom Chicken Ramen|140g|3.30|sale=2.48|
+p814|instant|三养 韩式甜辣炸鸡味火鸡面 5连包|Samyang Buldak Yangnyeom Chicken Ramen (5-Pack)|5×140g|14.50|sale=10.15|
+p815|instant|三养 芝士联盟火鸡面（四重芝士）|Samyang Buldak Quattro Cheese Hot Chicken Ramen|145g|3.20|sale=2.56|
+p816|instant|三养 芝士联盟火鸡面 5连包|Samyang Buldak Quattro Cheese Hot Chicken Ramen (5-Pack)|5×145g|14.50|sale=12.50|
+p817||||||| dup=p688
+p818||||||| dup=p686
+p819||||||| dup=p814
+p820|instant|农心 辛拉面|Nongshim Shin Ramyun|120g|1.80||整箱20包 30.00€

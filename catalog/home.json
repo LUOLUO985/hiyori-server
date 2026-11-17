@@ -1,0 +1,177 @@
+{
+  "banners": [
+    {
+      "title": "一条街，一口家乡味",
+      "title_en": "A Taste of Home in Lahti",
+      "sub": "近 800 件亚洲食品，到店即有",
+      "sub_en": "Nearly 800 Asian groceries in store",
+      "link": ""
+    },
+    {
+      "title": "火锅季",
+      "title_en": "Hot Pot Season",
+      "sub": "底料、蘸料、丸子、肥牛一次配齐",
+      "sub_en": "Soup bases, sauces, meatballs and beef rolls",
+      "link": "sauce"
+    },
+    {
+      "title": "本周特价",
+      "title_en": "This Week's Deals",
+      "sub": "手写特价与多件优惠，先到先得",
+      "sub_en": "Marked-down prices and multi-buy offers",
+      "link": "deals"
+    }
+  ],
+  "hot_keywords": [
+    [
+      "海底捞",
+      "Haidilao"
+    ],
+    [
+      "辛拉面",
+      "Shin Ramyun"
+    ],
+    [
+      "火鸡面",
+      "Buldak"
+    ],
+    [
+      "老干妈",
+      "Lao Gan Ma"
+    ],
+    [
+      "康师傅",
+      "Master Kong"
+    ],
+    [
+      "水饺",
+      "Dumplings"
+    ],
+    [
+      "螺蛳粉",
+      "Luosifen"
+    ],
+    [
+      "奶茶",
+      "Milk Tea"
+    ],
+    [
+      "火锅",
+      "Hot Pot"
+    ],
+    [
+      "海苔",
+      "Seaweed"
+    ]
+  ],
+  "sections": [
+    {
+      "id": "deals",
+      "title": "本周特价",
+      "title_en": "This Week's Deals",
+      "sub": "价签上的手写特价",
+      "sub_en": "Marked down on the shelf",
+      "link": "deals",
+      "items": [
+        "p132",
+        "p813",
+        "p259",
+        "p140",
+        "p547",
+        "p728",
+        "p798",
+        "p174"
+      ]
+    },
+    {
+      "id": "hotpot",
+      "title": "火锅专区",
+      "title_en": "Hot Pot Night",
+      "sub": "底料蘸料涮菜，一锅配齐",
+      "sub_en": "Everything for the pot",
+      "link": "sauce",
+      "items": [
+        "p220",
+        "p219",
+        "p393",
+        "p392",
+        "p398",
+        "p403",
+        "p105",
+        "p107"
+      ]
+    },
+    {
+      "id": "instant",
+      "title": "泡面速食",
+      "title_en": "Instant Favorites",
+      "sub": "五分钟开饭",
+      "sub_en": "Dinner in five minutes",
+      "link": "instant",
+      "items": [
+        "p820",
+        "p811",
+        "p812",
+        "p827",
+        "p855",
+        "p789",
+        "p805",
+        "p823"
+      ]
+    },
+    {
+      "id": "snack",
+      "title": "人气零食",
+      "title_en": "Popular Snacks",
+      "sub": "追剧必备",
+      "sub_en": "For the next binge-watch",
+      "link": "snack",
+      "items": [
+        "p193",
+        "p168",
+        "p216",
+        "p277",
+        "p166",
+        "p187",
+        "p150",
+        "p203"
+      ]
+    },
+    {
+      "id": "drink",
+      "title": "饮料茶咖",
+      "title_en": "Drinks",
+      "sub": "解乡愁的那一口",
+      "sub_en": "The flavors you grew up with",
+      "link": "drink",
+      "items": [
+        "p112",
+        "p114",
+        "p121",
+        "p540",
+        "p509",
+        "p494",
+        "p542",
+        "p129"
+      ]
+    },
+    {
+      "id": "sauce",
+      "title": "厨房常备",
+      "title_en": "Pantry Staples",
+      "sub": "妈妈的味道",
+      "sub_en": "The taste of mom's cooking",
+      "link": "sauce",
+      "items": [
+        "p681",
+        "p386",
+        "p389",
+        "p382",
+        "p701",
+        "p321",
+        "p710",
+        "p719"
+      ]
+    }
+  ]
+}

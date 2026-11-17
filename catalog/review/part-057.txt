@@ -1,0 +1,24 @@
+p557||||||| dup=p534
+p558||||||| dup=p533
+p559||||||| dup=p540
+p560||||||| dup=p541
+p561||||||| dup=p544
+p562||||||| dup=p543
+p563|drink|Hata 日本波子汽水 荔枝味|Hata Ramune Soda Lychee|200ml|2.20||
+p564||||||| dup=p542
+p565|drink|Hata 日本波子汽水 哈密瓜味|Hata Ramune Soda Melon|200ml|2.20||
+p566|drink|Hata 日本波子汽水 西瓜味|Hata Ramune Soda Watermelon|200ml|2.20||
+p567|drink|脉动 维生素饮料 桃子味|Mizone Vitamin Drink Peach|1L|4.50||
+p568|drink|尖叫 纤维型运动饮料 柠檬味|Scream Sports Drink Fiber Type Lemon|550ml|3.20||
+p569|drink|尖叫 多肽型运动饮料 西柚味|Scream Sports Drink Polypeptide Type Grapefruit|550ml|3.20||
+p570||||||| dup=p122
+p571|snack|生和堂 多肉葡萄（吸吸甜品）|Sunity Grape & Nata de Coco Dessert|150g|1.95||
+p572|snack|生和堂 杨枝甘露（吸吸甜品）|Sunity Pomelo Mango Sago Dessert|150g|1.95||
+p573|snack|生和堂 蓝莓西米露（吸吸甜品）|Sunity Blueberry Sago Dessert|150g|1.95||
+p574|snack|Delief 胶原蒟蒻果冻 荔枝味|Delief Vegan Collagen Konjac Jelly Lychee|120g|1.95||
+p575|snack|Delief 胶原蒟蒻果冻 青葡萄味|Delief Vegan Collagen Konjac Jelly Green Grape|120g|1.95||
+p576||||||| dup=p547
+p577|drink|生和堂 金银花红心芭乐汁|Sunity Honeysuckle & Guava Juice|120ml|1.95||
+p578|drink|生和堂 眼里有光 蓝莓黑枸杞汁|Sunity Blueberry & Black Goji Juice|120ml|2.25||
+p579|drink|生和堂 益生元羽衣甘蓝奇亚籽汁|Sunity Prebiotic Kale & Chia Seeds Juice|120ml|2.25||
+p580|drink|生和堂 畅快攻略 益生元西梅汁|Sunity Prebiotic Prune Juice|120ml|1.95||

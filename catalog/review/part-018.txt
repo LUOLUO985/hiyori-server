@@ -1,0 +1,24 @@
+p245|sauce|白家 香辣水煮鱼调料|BaiJia Spicy Hot Boiled Fish Seasoning|200g|3.00|2件3€|
+p246|sauce|好人家 香辣老卤汁|HRJ Spicy Marinade|120g|1.99|sale=1.59|
+p247|sauce|好人家 新疆大盘鸡调料|HRJ Seasoning for Xinjiang Style Chicken|180g|3.00||
+p248|snack|Takumi 海苔零食 照烧BBQ味|Takumi Seaweed Snacks Teriyaki BBQ|3×4g|3.40||
+p249|snack|Takumi 海苔零食 芥末味|Takumi Seaweed Snacks Wasabi|3×4g|3.40||
+p250|snack|Takumi 海苔零食 原味|Takumi Seaweed Snacks Original|3×4g|3.40||
+p251|dry|TFC 紫菜饼（煮汤用）|TFC Dried Seaweed for Soup|100g|4.20||
+p252|bakery|Tokimeki 铜锣烧 红豆味|Tokimeki Dorayaki Red Bean|195g|5.50||
+p253|snack|格力高 百力滋 抹茶香草味|Glico Pretz Matcha Vanilla|45g|2.20||
+p254|snack|名糖 鲷鱼烧 草莓巧克力夹心|Meito Pukupuku Tai Strawberry Choco|16.5g|1.80||
+p255|snack|名糖 鲷鱼烧 巧克力夹心|Meito Pukupuku Tai Chocolate|16.5g|1.80||
+p256|bakery|Mae Napa 椰香芋头糯米糕|Mae Napa Glutinous Rice Cake Coconut Taro|80g|1.80|sale=0.99|
+p257|bakery|然利 大麦若叶蛋糕|Ranki Cake with Barley Grass Powder|95g|2.20||
+p258|bakery|新麦潮 松松乳酪包（肉松芝士面包）|XMC Chicken Floss Cheese Bread|85g|2.50||
+p259|bakery|Aji 细腻芝士小蛋糕|Aji Soft Cheese Cake|180g|5.50|sale=3.85|
+p260|bakery|Tokimeki 日本冲绳黑糖面包|Tokimeki Bread Okinawa Brown Sugar|70g|2.80||
+p261|bakery|Tokimeki 日本盐黄油风味面包|Tokimeki Bread Salt Butter|70g|2.80||
+p262|bakery|乐锦记 千层魔方吐司|HRS Mille-Feuille Toast|320g|6.25||
+p263|bakery|乐锦记 奶香原味手撕棒面包|HRS Milk Bread Sticks (10 pcs)|380g|6.80||
+p264|bakery|Aji 长崎蛋糕 清新抹茶味|Aji Castella Cake Matcha|330g|6.80||
+p265||||||| dup=p259
+p266||||||| dup=p263
+p267|snack|广川 海苔零食 原味|GCH Seaweed Snack Original|5g|0.99||
+p268|bakery|友臣 肉松饼 香葱味|YouChen Chicken Floss Cake Spring Onion|35g|1.35||

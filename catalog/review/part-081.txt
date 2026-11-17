@@ -1,0 +1,24 @@
+p749|canned|Aroy-D 糖水嫩椰肉|Aroy-D Young Coconut Meat in Syrup|425g|3.85||
+p750|canned|鹰金钱 烧仙草（黑凉粉）|Eagle Coin Grass Jelly|530g|4.00||
+p751|dry|宇峰 白凉粉专用粉|Yufeng White Grass Jelly Powder|100g|1.99||
+p752|canned|Peak 淡奶（甜点用）|Peak Evaporated Milk|170g|2.25||
+p753|canned|竹树牌 椰浆（脂肪17-19%）|Bamboo Tree Coconut Milk 17-19% Fat|400ml|2.80||
+p754||||||| dup=p666
+p755|canned|Penta 特选笋尖|Penta Bamboo Shoot Tips|454g|4.50||
+p756|canned|龙兴 泰式酸菜（咸酸菜）|Leng Heng Sour Pickled Green Mustard|350g|2.50||
+p757|canned|翠花 东北酸菜丝|CuiHua Pickled Cabbage (Suan Cai)|300g|2.50||
+p758|noodle|古松 老北京绿豆粉丝|Gusong Mung Bean Vermicelli|320g|4.25||
+p759|noodle|京一根 红薯宽粉|Jingyigen Sweet Potato Vermicelli Broad|200g|3.15||
+p760|noodle|竹树牌 越南圆形米纸 22cm|Bamboo Tree Rice Paper Round 22cm|340g|3.50||
+p761|noodle|竹树牌 越南方形米纸 22cm|Bamboo Tree Rice Paper Square 22cm|400g|3.85||
+p762|noodle|王牌 韩国年糕条 4小包|Wang Topokki Stick Rice Cake (4 Packs)|4×150g|5.80||
+p763|noodle|Eaglobe 韩国红薯粉条|Eaglobe Korean Sweet Potato Vermicelli|500g|6.85||
+p764|noodle|Jinyori 韩式红薯粉条|Jinyori Sweet Potato Vermicelli|500g|6.50||
+p765|noodle|张力生 水磨年糕片|ZLS Traditional Rice Cake Slices|400g|3.50||
+p766|sauce|O'Food 韩式炒年糕酱|O'Food Gochujang Tteokbokki Sauce|120g|2.68||
+p767|noodle|Nippn Hello Kitty 造型通心粉|Nippn Hello Kitty Character Macaroni|120g|2.55||
+p768|noodle|日式乌冬面 单包|Japanese Style Udon Noodles (Single Pack)|200g|1.15|sale=0.99|
+p769|noodle|Farmer 越南河粉 1mm|Farmer Rice Sticks 1mm|400g|2.35||
+p770|noodle|竹树牌 越南米粉（细）|Bamboo Tree Rice Vermicelli (Bun Tuoi)|400g|2.20||
+p771|noodle|日正 台湾新竹米粉|Taiwan Hsin Chu Rice Noodle|300g|3.80||
+p772|noodle|晶星 上海阳春面|Jingxing Shanghai Yangchun Noodles|2kg|8.50||

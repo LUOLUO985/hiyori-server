@@ -1,0 +1,24 @@
+p149|snack|老街口 打手瓜子（多味）|LJK Roasted White Sunflower Seeds|235g|3.80||
+p150|snack|洽洽 原香瓜子|ChaCha Sunflower Seeds Original|228g|3.80||
+p151|snack|老街口 蒜香花生|LJK Roasted Peanuts in Shell Garlic Flavor|420g|5.80||
+p152|snack|老街口 鸭屎香茶叶炒花生|LJK Tea Flavored Roasted Peanuts|500g|6.80|-10%|
+p153||||||| dup=p144
+p154|snack|Kimnori 拌饭海苔 辣味|Kimnori Seaweed Snacks Chili|40g|3.70||
+p155|snack|Kimnori 拌饭海苔 BBQ味|Kimnori Seaweed Snacks BBQ|40g|3.70||
+p156|snack|Dorkbua 鸡腿饼干条 微辣味|Dorkbua Drumstick Biscuit Sticks Mini Chili|110g|2.60||
+p157|snack|长思 阿胶水晶蜜枣|ChangSi Honey Jujube Dates|227g|3.95||
+p158|snack|卧龙 小麻花 烧烤味|WL Mini Dough Twist BBQ Flavor|138g|2.60|sale=2.08|
+p159|snack|卧龙 猫耳朵 五香味|WL Cat-Ear Wheat Snack Five Spice|138g|2.60||
+p160|snack|邬辣妈 麻辣豆卷|WLM Soy-Based Latiao Hot Spicy|70g|1.80||
+p161|snack|川阿婆 杏鲍菇豆卷|ChAP Beancurd Roll with King Oyster Mushroom|98g|2.40|买1送1|
+p162|snack|川阿婆 海带丝豆卷|ChAP Beancurd Roll with Seaweed|98g|2.40|买1送1|
+p163|snack|有友 泡椒凤爪|YY Pickled Chicken Feet Spicy|100g|2.35|-15%|
+p164|snack|香香嘴 豆干 六味混合|JoyTofu Dried Tofu Mixed Flavors|350g|5.25||
+p165|snack|劲仔 厚豆干 香辣味|Jinzai Thick Dried Tofu Spicy Hot|108g|2.50||
+p166|snack|旺旺 仙贝|Want Want Senbei Rice Crackers|112g|3.69||
+p167|snack|旺旺 辣味雪饼|Want Want Spicy Shelly Senbei Rice Crackers|150g|3.99||
+p168|snack|卫龙 魔芋爽 麻辣味|Wei Long Konjac Snack Sichuan Mala|252g|5.80|2件-10%|
+p169|snack|卫龙 魔芋爽 酸辣味|Wei Long Konjac Snack Sour & Hot|252g|5.80|2件-10%|
+p170|snack|卫龙 魔芋爽 香辣味|Wei Long Konjac Snack Hot & Spicy|252g|5.80|2件-10%|
+p171|snack|禛香 肥牛味素肉|ZhenXiang Soya-Based Snack Beef Flavor|80g|1.60||
+p172|snack|佳龙 素牛筋 麻辣味|JiaLong Vegan Spicy Latiao|106g|1.80||

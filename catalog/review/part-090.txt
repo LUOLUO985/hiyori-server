@@ -1,0 +1,24 @@
+p821|instant|农心 辛拉面 泡菜味（纯素）|Nongshim Shin Ramyun Kimchi (Vegan)|120g|1.80||
+p822|instant|农心 辛拉面 香辣鸡肉味|Nongshim Shin Ramyun Spicy Chicken|120g|2.00||
+p823|instant|农心 炸酱面 Chapagetti|Nongshim Chapagetti Black Bean Noodles|140g|2.00||
+p824||||||| dup=p687
+p825|instant|农心 辛拉面 Red 超级辣|Nongshim Shin Ramyun Red Super Spicy|120g|2.20||
+p826|instant|农心 浣熊面 热辣海鲜味|Nongshim Neoguri Ramyun Seafood & Spicy|120g|2.20||
+p827|instant|农心 辛拉面 Toomba 辣芝士奶油拌面|Nongshim Shin Ramyun Toomba Stir-Fry Noodles|137g|2.20||
+p828|instant|农心 辛拉面 辣白菜拌面|Nongshim Shin Ramyun Kimchi Stir-Fry Noodles|137g|2.20||
+p829||||||| dup=p827
+p830|instant|农心 辛拉面 Toomba 辣芝士奶油拌面 5连包|Nongshim Shin Ramyun Toomba Stir-Fry Noodles (5-Pack)|5×137g|9.00||
+p831|instant|Yopokki 即食炒年糕杯 烤肉味|Yopokki Rice Cake Cup Bulgogi BBQ|118g|3.35|2件5€|
+p832|instant|农心 辛拉面 猎魔女团联名杯面 3杯装|Nongshim Shin Ramyun Demon Hunters Mix Cup Noodles (3 Cups)|3×68g|7.80||
+p833|instant|OK Mama 咸蛋黄味拌面|Mama Oriental Kitchen Stir-Fried Noodles Salted Egg|85g|1.55||
+p834|instant|OK Mama 奶油培根味拌面|Mama Oriental Kitchen Instant Noodles Carbonara|85g|1.55||
+p835|instant|Oyakata 日式味噌拉面|Oyakata Miso Ramen|89g|1.50||
+p836|instant|八道 牛骨意面 Gompaghetti|Paldo Gompaghetti Korean Beef Flavored Noodles|110g|2.20||
+p837||||||| dup=p688
+p838|instant|农心 大碗面 热辣鲜虾味|Nongshim Big Bowl Noodle Spicy Shrimp|115g|2.85||
+p839|instant|农心 大碗面 热辣味|Nongshim Big Bowl Noodle Hot & Spicy|100g|2.60||
+p840|instant|农心 大碗面 辣鸡肉味|Nongshim Big Bowl Noodle Spicy Chicken|100g|2.60||
+p841|instant|农心 辛拉面 Toomba 辣芝士大碗面|Nongshim Shin Ramyun Toomba Big Bowl|113g|2.85||
+p842|instant|食族人 素爆肚粉（桶装）|Shizuren Vegetarian Spicy Sweet Potato Vermicelli Cup|150g|4.80||
+p843||||||| dup=p820
+p844||||||| dup=p854

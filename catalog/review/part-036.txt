@@ -1,0 +1,24 @@
+p389|sauce|恒顺 镇江香醋|Hengshun Chinkiang Vinegar|550ml|3.50||
+p390|hotpot|单山 蘸水（云南干碟辣椒面）|Dan Shan Chili Dipping Powder|50g|1.50||
+p391|hotpot|海底捞 火锅蘸料 香辣味|Haidilao Hot Pot Dipping Sauce Spicy|120g|1.50||
+p392|hotpot|海底捞 火锅蘸料 原味|Haidilao Hot Pot Dipping Sauce Original|120g|1.50||
+p393|hotpot|海底捞 麻辣烫调味料|Haidilao Mala Tang Seasoning|220g|4.50||
+p394||||||| dup=p219
+p395||||||| dup=p218
+p396||||||| dup=p217
+p397||||||| dup=p220
+p398|hotpot|海底捞 火锅苕皮（红薯宽粉）|Haidilao Sweet Potato Noodles for Hot Pot|200g|3.20||
+p399|meat|万德福 广东腊肠|Wanderfort Cantonese Sausage|250g|7.85||
+p400|canned|Chef's Choice 腌莴笋条|Chef's Choice Preserved Lettuce Stems|250g|2.50|sale=2.00|
+p401|sauce|牛头牌 沙茶酱|Bull Head BBQ Sauce (Shacha)|737g|15.80|sale=14.22|
+p402||||||| dup=p228
+p403|hotpot|海底捞 火锅响铃卷|Haidilao Fried Bean Curd Rolls|120g|3.80||
+p404|daily|三丽鸥 库洛米 迷你收音机巧克力|Sanrio Kuromi Mini Radio with Chocolate||8.50||
+p405|daily|三丽鸥 Hello Kitty 3D立体贴纸|Sanrio Hello Kitty 3D Stickers||3.85||
+p406|daily|三丽鸥 Hello Kitty 迷你收音机巧克力|Sanrio Hello Kitty Mini Radio with Chocolate||8.50||
+p407|daily|Hello Kitty 纸盘 18cm 6个装|Hello Kitty Paper Plates 18cm (6 pcs)|6个|5.50|sale=3.85|
+p408|daily|珍珠装饰贴纸|Pearl Sticker Sheet||2.38|sale=1.67|
+p409|daily|水钻装饰贴纸|Rhinestone Jewel Sticker Sheet||2.48|sale=1.49|
+p410||||||| dup=p409
+p411|daily|彩色水钻装饰贴纸|Colorful Rhinestone Sticker Sheet||2.48|sale=1.74|
+p412|daily|眼妆美甲水钻贴|Eye & Nail Art Gem Stickers||2.38|sale=1.67|照片模糊，价签看不清，建议重拍

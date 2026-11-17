@@ -1,0 +1,24 @@
+p461|drink|铁观音乌龙茶包（奶茶用）20包|Ti Kuan Yin Oolong Tea Bags (20 Bags)|20×2g|2.50|sale=1.95|
+p462|dry|快煮黑糖珍珠粉圆（5分钟）|Quick-Cook Tapioca Pearls Brown Sugar (5 Min)|500g|5.50||
+p463|dry|筷来筷往 快煮抹茶珍珠粉圆（3分钟）|KLKW Quick-Cook Tapioca Pearls Matcha (3 Min)|250g|3.80|sale=2.95|
+p464||||||| dup=p462
+p465|dry|自然食記 蓝莓爆爆珠|ZRSJ Blueberry Popping Boba|450g|7.50|sale=6.00|
+p466|dry|自然食記 樱桃爆爆珠|ZRSJ Cherry Popping Boba|450g|7.50|sale=6.00|
+p467|dry|自然食記 芒果爆爆珠|ZRSJ Mango Popping Boba|450g|7.50|sale=6.00|
+p468|dry|干山楂片|Dried Hawthorn Slices|100g|4.35||
+p469|dry|谷香 桂圆肉|GuXiang Peeled Longan Fruit|120g|9.85||
+p470|drink|谷香 陈皮丝|GuXiang Shredded Tangerine Peel Tea|80g|4.50||
+p471|drink|谷香 干山楂圈|GuXiang Hawthorn Tea|70g|4.35||
+p472|dry|谷香 桑葚干|GuXiang Dried Mulberry|150g|5.80||
+p473|dry|谷香 黄芪中片|GuXiang Astragalus Root Slices|80g|6.80||
+p474|drink|谷香 茉莉花茶|GuXiang Jasmine Flowers Tea|30g|4.50||
+p475|drink|云暮山 金丝皇菊|YMSh Golden Chrysanthemum Tea|20g|4.50||
+p476|drink|金帆 玫瑰乌龙茶包 7包|Golden Sail Rose Oolong Tea (7 Bags)|7×3g|3.80||
+p477|drink|金帆 白桃乌龙茶包 7包|Golden Sail White Peach Oolong Tea (7 Bags)|7×3g|3.80||
+p478|drink|金帆 茉莉绿茶包 7包|Golden Sail Jasmine Green Tea (7 Bags)|7×3g|3.80||
+p479|drink|金帆 桂花绿茶包 7包|Golden Sail Osmanthus Green Tea (7 Bags)|7×3g|3.80||
+p480|drink|金帆 普洱茶|Golden Sail Pu-Erh Tea|125g|6.80||
+p481|drink|金帆 茉莉花茶|Golden Sail Jasmine Tea|125g|7.80||
+p482|drink|金帆 荔枝红茶|Golden Sail Lychee Black Tea|125g|6.80||
+p483|drink|九阳 原磨豆浆粉（速溶）10条|Joyoung Instant Soy Milk Powder (10 Sachets)|10×25g|4.25||
+p484|drink|南国 生椰拿铁 固体饮料|Nanguo Instant Coconut Milk Coffee Latte|330g|8.50||

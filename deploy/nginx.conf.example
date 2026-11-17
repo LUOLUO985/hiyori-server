@@ -1,0 +1,34 @@
+# /etc/nginx/sites-available/hiyori  ——  把 api.example.com 换成你的域名
+# HTTPS 证书可以用 certbot：sudo certbot --nginx -d api.example.com
+
+server {
+    listen 80;
+    server_name api.example.com;
+    return 301 https://$host$request_uri;
+}
+
+server {
+    listen 443 ssl http2;
+    server_name api.example.com;
+
+    ssl_certificate     /etc/letsencrypt/live/api.example.com/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/api.example.com/privkey.pem;
+
+    client_max_body_size 6m;   # 和后端上传限制（5MB）对应
+
+    # 商品图：Nginx 直接从磁盘读，比经过 Java 快，还能让手机缓存 30 天
+    location /files/ {
+        alias /srv/hiyori/uploads/;
+        expires 30d;
+        add_header Cache-Control "public";
+    }
+
+    # 其余全部交给后端
+    location / {
+        proxy_pass http://127.0.0.1:8080;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}

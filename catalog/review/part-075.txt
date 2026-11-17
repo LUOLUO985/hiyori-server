@@ -1,0 +1,24 @@
+p701|sauce|鹃城牌 郫县豆瓣酱|Juan Cheng Pixian Chili Bean Sauce|500g|4.00||
+p702|sauce|JK 照烧汁 大瓶|JK Teriyaki Sauce (Large Bottle)|1.8L|13.90||
+p703|sauce|P.R.B 特级芝麻油 大瓶|P.R.B Superior Sesame Oil (Large Bottle)|1.8L|16.00||
+p704|sauce|日本食研 芝麻沙拉酱|Nihon Shokken Goma Sesame Dressing|1L|16.85||
+p705|rice|金龟牌 花生油|Golden Turtle Peanut Oil|1L|7.50||
+p706|rice|竹树牌 初榨特级椰子油|Bamboo Tree Virgin Coconut Oil|500ml|7.95||
+p707|canned|王致和 臭豆腐|Wangzhihe Fermented Stinky Tofu|330g|5.50||
+p708|canned|王致和 玫瑰腐乳（大块腐乳）|Wangzhihe Rose Fermented Bean Curd|340g|4.50||
+p709|sauce|六必居 二八酱（芝麻花生酱）|Liubiju Sesame Peanut Butter Beijing Style|300g|4.50||
+p710|sauce|六必居 纯芝麻酱|Liubiju Pure Sesame Paste|200g|3.95||
+p711|sauce|六必居 纯黑芝麻酱|Liubiju Pure Black Sesame Paste|150g|3.95||
+p712|sauce|盒马 石磨花生酱|HeMa Stone-Ground Peanut Butter|200g|3.50||
+p713|sauce|翠宏 烧烤料 孜然味|Cuihong BBQ Seasoning Cumin Flavor|100g|3.00||
+p714|sauce|翠宏 烧烤料 香辣味|Cuihong BBQ Seasoning Spicy Flavor|100g|3.00||
+p715|sauce|李锦记 香爆豆豉酱（方便酱料包）|Lee Kum Kee Black Bean Garlic Stir-Fry Sauce|50g|1.80||
+p716|sauce|李锦记 宫保鸡丁酱（方便酱料包）|Lee Kum Kee Kung Pao Chicken Stir-Fry Sauce|60g|1.80||
+p717|sauce|李锦记 甜酸咕噜肉酱（方便酱料包）|Lee Kum Kee Sweet & Sour Stir-Fry Sauce|80g|1.80||
+p718|sauce|小熊驾到 五香粉|Five Spice Powder Seasoning|24g|2.00||
+p719|sauce|王守义 十三香|Wang Shouyi Thirteen Spices|45g|1.95||
+p720|canned|云山半 泡椒小米辣|Yunshanban Pickled Chili (Xiaomila)|500g|4.80|买1送1|
+p721|canned|Shan 酸辣泡椒|Shan Chili Pickle|1kg|6.00||
+p722|sauce|Shan 蒜蓉|Shan Garlic Paste|700g|9.00||
+p723|sauce|清净园 韩国辣椒酱|Chung Jung One Sunchang Korean Gochujang|500g|5.80||
+p724|sauce|膳府 韩式包饭酱（纯素）|Sempio Ssamjang Soybean Dipping Paste (Vegan)|500g|3.95||

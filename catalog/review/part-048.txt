@@ -1,0 +1,24 @@
+p485|drink|黑小知 桑葚黑芝麻芡实粉（药食同源养生粉）16小包|HXZh 9-Mix Wellness Breakfast Powder (16 Sachets)|560g|8.85||
+p486|drink|金麒麟 即溶抹茶拿铁 10条|Gold Kili Instant Matcha Latte (10 Sachets)|250g|8.50||
+p487|drink|Slinmy 泰式奶茶 三合一 7条|Slinmy Instant Thai Milk Tea 3-in-1 (7 Sachets)|210g|8.50|sale=6.80|
+p488|drink|金麒麟 即溶姜茶 单条|Gold Kili Instant Ginger Drink (Single Sachet)|18g|1.00||
+p489|drink|金麒麟 即溶姜拿铁 10条|Gold Kili Instant Ginger Latte (10 Sachets)|250g|8.50||
+p490|drink|Slinmy 草本绿茶（纤体茶）20包|Slinmy Green Tea with Herbs Original (20 Tea Bags)|40g|5.80||
+p491|drink|山外山 银毫绿茶|Shanwaishan Yin Hao Green Tea|50g|4.50||
+p492|drink|山外山 日本煎茶|Shanwaishan Japanese Sencha|50g|4.50||
+p493|drink|和の时间 宇治抹茶粉 100%|Wa no Jikan 100% Matcha Powder|40g|12.80||
+p494|drink|鹿角巷×Labubu 七窨茉莉牛乳茶|The Alley × Labubu Instant Milk Tea Jasmine|93g|3.60||
+p495|drink|鹿角巷×Labubu 桃园乌龙牛乳茶|The Alley × Labubu Instant Milk Tea Oolong|93g|3.60||
+p496|drink|鹿角巷 山野栀子牛乳茶|The Alley Instant Milk Tea Gardenia|93g|2.35||
+p497|drink|鹿角巷 经典黑糖牛乳茶|The Alley Instant Milk Tea Classic Brown Sugar|123g|2.50||
+p498|drink|鹿角巷 斯里兰卡牛乳茶|The Alley Instant Milk Tea Sri Lanka|93g|2.35||
+p499|drink|3点1刻 玫瑰花果奶茶 5包|3:15PM Milk Tea Classic Rose Fruity (5 Bags)|5×20g|3.80|-10%|单包 20g 另售 0.99€
+p500|drink|3点1刻 港式经典奶茶 5包|3:15PM Hong Kong Style Coffee Milk Tea (5 Bags)|5×20g|3.80|-10%|单包 20g 另售 0.99€
+p501|drink|3点1刻 冲绳黑糖奶茶 5包|3:15PM Milk Tea Okinawa Brown Sugar (5 Bags)|5×20g|3.80|-10%|单包 20g 另售 0.99€
+p502|drink|南国 生椰拿铁（无蔗糖）单条|Nanguo Instant Coconut Milk Coffee Latte No Sugar (Single)|15g|0.85||
+p503||||||| dup=p129
+p504||||||| dup=p125
+p505||||||| dup=p123
+p506||||||| dup=p128
+p507||||||| dup=p120
+p508||||||| dup=p121

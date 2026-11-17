@@ -1,0 +1,24 @@
+p341|sauce|Chin-Su 香菇酱油|Chin-Su Nam Shiitake Soy Sauce|330ml|2.50|sale=2.00|另有手写：买3付2
+p342|sauce|Chin-Su 蒜辣酱油|Chin-Su Spicy Garlic Chili Soy Sauce|330ml|2.50|sale=2.00|另有手写：3件5€
+p343|sauce|ABC 甜酱油|ABC Sweet Soy Sauce (Kecap Manis)|600ml|5.50||
+p344|rice|Tai Ky 越南煎饼专用粉|Tai Ky Vietnamese Crispy Pancake Mix (Banh Xeo)|400g|2.50||
+p345|rice|Tai Ky 越南肠粉专用粉|Tai Ky Vietnamese Steamed Rice Roll Mix (Banh Cuon)|400g|2.50||
+p346|rice|华海顺达 红薯淀粉|HHSD Sweet Potato Starch|300g|2.50||
+p347|rice|华海顺达 马铃薯淀粉|HHSD Potato Starch|300g|2.50||
+p348|sauce|丘比 沙拉酱（蛋黄酱）无麸质|Kewpie Mayonnaise Gluten-Free|500ml|7.80||
+p349|sauce|丘比 焙煎芝麻沙拉汁|Kewpie Deep Roasted Sesame Dressing|236ml|6.25||
+p350|sauce|必品阁 韩式烤肉酱 辣味|Bibigo Korean Bulgogi Sauce Hot & Spicy|500g|5.80||
+p351|sauce|Beary 韩式火鸡面酱（纯素）|Beary Korean Buldak Hot Sauce (Vegan)|220ml|3.85||
+p352|sauce|御多福 章鱼烧酱|Otafuku Takoyaki Sauce|300g|4.80||
+p353|sauce|御多福 御好烧酱（纯素）|Otafuku Okonomi Sauce (Vegan)|300g|4.80||
+p354|sauce|王牌 韩式烤肉酱|Wang Korean BBQ Bulgogi Sauce|840g|8.50||
+p355|sauce|Uni-Eagle 是拉差辣椒酱|Uni-Eagle Sriracha Hot Chili Sauce|740ml|6.50||
+p356|sauce|飞鹅牌 是拉差辣椒酱|Flying Goose Sriracha Hot Chili Sauce|200ml|2.90||
+p357|sauce|Chin-Su 辣椒酱|Chin-Su Chili Sauce|250g|2.50||
+p358|sauce|Royal Thai 春卷甜辣酱|Royal Thai Sweet Chili Sauce for Spring Rolls|275ml|2.60||
+p359|sauce|美极 越南黄豆酱油|Maggi Vietnamese Soy Sauce (Dau Nanh)|700ml|4.20||
+p360|sauce|金山 调味酱油|Golden Mountain Seasoning Sauce|600ml|3.50||
+p361|sauce|肥儿牌 深色酱油（老抽）|Healthy Boy Black Soy Sauce|960g|5.95||
+p362|sauce|肥儿牌 甜酱油|Healthy Boy Sweet Soy Sauce|970g|5.95||
+p363|sauce|肥儿牌 浅色酱油（生抽）|Healthy Boy Thin Soy Sauce|700ml|5.45||
+p364|sauce|肥儿牌 浅色酱油（生抽）|Healthy Boy Thin Soy Sauce|300ml|3.45||

@@ -1,0 +1,24 @@
+p221|sauce|华海顺达 香脆炸鸡粉|HHSD Crispy Fried Chicken Powder|140g|2.00||
+p222|sauce|华海顺达 食用小苏打|HHSD Edible Baking Soda|227g|1.95||
+p223|dry|云羊红 山珍菌菇煲炖汤料|YYH Mushroom Soup Broth Mix|85g|4.50||
+p224|dry|TFC 裙带菜（味噌汤用）|TFC Cut Wakame for Miso Soup|50g|2.85||
+p225|dry|和田久 木鱼花|Wadakyu Katsuobushi Dried Bonito Flakes|40g|8.80||
+p226|sauce|Makoto 熟黑芝麻|Makoto Roasted Black Sesame|60g|1.99||
+p227|sauce|Makoto 熟白芝麻|Makoto Roasted White Sesame|60g|1.99||
+p228|dry|Eaglobe 腐竹结|Eaglobe Dried Beancurd Knots|300g|5.25||
+p229|dry|达利 油豆皮（豆腐皮）|Dali Bean Curd Sheets|250g|6.80||
+p230|dry|金海林 幼嫩宽叶海带片|JHL Kelp Slices (Kombu)|150g|4.50||
+p231|sauce|自然之源 辣椒段|NBH Dried Chili Pieces (Cut)|100g|3.00||
+p232|sauce|谷香 辣椒碎|GuXiang Chili Flakes|50g|1.85||
+p233|sauce|农心 辣白菜辣椒粉|Nongshim Kimchi Red Pepper Powder|454g|7.80||
+p234|sauce|谷香 大红八角|GuXiang Star Anise|25g|1.95||
+p235|sauce|谷香 孜然粒|GuXiang Cumin Seeds|30g|1.25||
+p236|sauce|TFC 桂皮|TFC Cinnamon Sticks|100g|3.50||
+p237|sauce|华海顺达 小茴香|HHSD Fennel Seeds|40g|2.00||
+p238|sauce|TFC 四川花椒|TFC Sichuan Pepper|60g|4.20||
+p239|sauce|华海顺达 新奥尔良烤翅调料|HHSD New Orleans Roasted Wing Seasoning|35g|1.45||
+p240|sauce|小熊驾到 关东煮汤底料 中辛|Japanese Oden Soup Base Powder Medium Spicy|30g|1.85||
+p241|sauce|华海顺达 炖肉炖排骨料包|HHSD Stewed Meat & Spareribs Seasoning|30g|1.99|sale=1.39|
+p242|sauce|华海顺达 茶叶蛋料包|HHSD Tea Egg Spice Seasoning|30g|1.60|sale=0.99|
+p243|sauce|白家 麻婆豆腐调料|BaiJia Mapo Tofu Seasoning|200g|2.50|2件3€|
+p244|sauce|白家 酸菜鱼烹饪料|BaiJia Pickled Vegetable Fish Seasoning|200g|2.80|2件3€|

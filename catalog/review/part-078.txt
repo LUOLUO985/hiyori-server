@@ -1,0 +1,24 @@
+p725|sauce|Hikari 白味噌|Hikari Miso Savoury White Miso|300g|4.00||
+p726|sauce|Meira 精制海盐（食用盐）|Meira Fine Sea Salt|800g|2.00||
+p727|sauce|白砂糖|White Granulated Sugar|1kg|2.00||价签写 Nordic Sugar，图中包装为 Dan Sukker
+p728|sauce|JX 单晶冰糖|JX Crystal Rock Sugar|400g|3.50|sale=2.45|
+p729|sauce|JX 黄冰糖|JX Yellow Rock Sugar|400g|3.50|sale=2.45|
+p730|canned|熟咸鸭蛋 6枚|Cooked Salted Duck Eggs (6 pcs)|6×70g|7.50|sale=5.25|
+p731|canned|Goosun 松花皮蛋 6枚|Goosun Preserved Duck Eggs (Pi Dan, 6 pcs)|6枚|7.50|sale=5.25|
+p732|sauce|珠江桥牌 阳江豆豉|Pearl River Bridge Yangjiang Preserved Black Beans|250g|2.60||
+p733|canned|Royal Orient 糖水杨梅|Royal Orient Arbutus in Syrup|567g|4.50||
+p734|canned|Aroy-D 糖水红毛丹|Aroy-D Rambutan in Syrup|565g|6.50||
+p735|canned|Aroy-D 糖水菠萝蜜|Aroy-D Jackfruit in Syrup|565g|4.50||
+p736|canned|Aroy-D 糖水木瓜|Aroy-D Papaya in Syrup|565g|4.50||
+p737|canned|林家铺子 糖水荔枝罐头|Linjia Puzi Lychee in Syrup|350g|4.50||
+p738|sauce|公鸡牌 白芝麻|Cock Brand White Sesame Seeds|227g|3.99||
+p739|dry|Sa Giang 龙虾片（生虾片）|Sa Giang Prawn Crackers (Uncooked)|200g|1.95||
+p740|dry|Ashoka 印度原味薄脆饼|Ashoka Madras Plain Poppadums|112g|2.45||
+p741|sauce|O-Cha 椰糖|O-Cha Palm Sugar Paste|454g|2.80||
+p742|dry|食全食美 红豆沙|SQSM Adzuki Red Bean Paste|458g|3.25||
+p743||||||| dup=p222
+p744|sauce|Arm & Hammer 斧头牌 食用小苏打|Arm & Hammer Pure Baking Soda|454g|2.50||
+p745|sauce|安琪 甜酒曲|Angel Rice Leaven (Sweet Rice Wine Yeast)|2×8g|1.80||
+p746|sauce|安琪 高活性干酵母|Angel Instant Dry Yeast|2×15g|1.90||
+p747|canned|林家铺子 糖水山楂罐头|Linjia Puzi Hawthorn in Syrup|350g|3.50||
+p748|canned|Chaokoh 糖水椰果|Chaokoh Coconut Jelly in Syrup|500g|4.00||

@@ -1,0 +1,17 @@
+p845|instant|Acecook Ricey 越南河粉 鸡肉味|Acecook Ricey Pho Rice Noodles Chicken Flavor|71g|1.45||
+p846|instant|妈妈牌 泰式牛肉汤粉|Mama Instant Rice Noodles Beef Stew Flavor|55g|0.99|sale=0.75|
+p847|instant|Omachi 牛肉汤面|Omachi Instant Noodles Beef Flavor|79g|1.20||
+p848|instant|Omachi 酸辣虾汤面|Omachi Instant Noodles Hot & Sour Shrimp|79g|1.20||
+p849|instant|Lucky Me 广式炒面 原味|Lucky Me Pancit Canton Original|60g|0.95||
+p850|instant|Lucky Me 广式炒面 青柠辣味|Lucky Me Pancit Canton Chilimansi|60g|0.95||
+p851|instant|Acecook 好好 干脆面 香辣脆洋葱味|Acecook Hao Hao Instant Noodles Chili Crispy Onion|75g|0.85||
+p852|instant|妈妈牌 泰式炒河粉（即食）|Mama Pad Thai Instant Stir-Fry Rice Noodles|150g|2.99||
+p853|instant|营多 印尼蔬菜面 Soto Mie 5连包|Indomie Vegetable Noodles Soto Mie (5-Pack)|5×75g|3.85||
+p854|instant|营多 印尼捞面 Mi Goreng 5连包|Indomie Mi Goreng Stir-Fry Noodles (5-Pack)|5×80g|3.85||整箱40包 28.80€
+p855|instant|好欢螺 柳州螺蛳粉 加辣加臭|Haohuanluo Liuzhou Luosifen Extra Spicy|400g|6.80|-10%|
+p856|instant|好欢螺 柳州螺蛳粉 麻辣火锅味|Haohuanluo Liuzhou Luosifen Mala Hot Pot Flavor|247g|5.80|-10%|
+p857|instant|田小花 红油流汁大宽粉|Tianxiaohua Red Oil Wide Glass Noodles|271g|2.80||
+p858|instant|田小花 麻酱流汁大宽粉|Tianxiaohua Sesame Paste Wide Glass Noodles|268g|2.80||
+p859|instant|有你一面 葱油拌面|YNYM Scallion Oil Dry Noodles|118g|2.80|2件5€|
+p860|instant|袁鲜 酸辣粉|Yuanxian Sour & Spicy Sweet Potato Noodles|276g|2.80||
+p861|instant|李海龙 麻辣烫 加量微辣|Li Hailong Mala Tang Mild Spicy|410g|6.50|2件-15%|

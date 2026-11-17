@@ -1,0 +1,24 @@
+p269|bakery|友臣 肉松饼 原味|YouChen Chicken Floss Cake Original|38g|1.35||
+p270|snack|幸运签语饼 5枚|Fortune Cookies (5 pcs)|5枚|1.75||
+p271|snack|幸运签语饼 10枚|Fortune Cookies (10 pcs)|10枚|2.99||
+p272|snack|广川 海苔零食 原味 10连包|KCK Seaweed Snack Original 10-Pack|10×5g|8.00||
+p273|snack|黄油猫 MiMiCat 黄油芝士薄饼|MiMiCat Butter Kitty Cheese Biscuits|40g|1.85||
+p274|snack|黄油猫 MiMiCat 黄油咖啡薄饼|MiMiCat Butter Kitty Coffee Biscuits|40g|1.85||
+p275|snack|黄油猫 MiMiCat 黄油青柠椰饼|MiMiCat Coconut Kitty Lime & Butter Biscuits|60g|2.05||
+p276|snack|Nabati 丽芝士 巧克力威化|Nabati Richoco Chocolate Wafer|145g|2.50||
+p277|snack|奥利奥 夹心饼干 树莓味+蓝莓味|Oreo Sandwich Biscuits Raspberry & Blueberry|97g|2.80||
+p278|snack|奥利奥 夹心饼干 冰淇淋抹茶味|Oreo Sandwich Biscuits Ice Cream Matcha|97g|2.80||
+p279|snack|奥利奥 夹心饼干 葡萄味+水蜜桃味|Oreo Sandwich Biscuits Grape & Peach|97g|2.80||
+p280|snack|Magic Creams 黄油奶油夹心饼干|Magic Creams Buttercream Cracker|280g|4.50||
+p281|snack|Aji 梅菜脆饼|Aji Crispy Meicai Sandwich Cookies|30g|0.60||
+p282|snack|北田 99能量棒 蛋黄味|Pei Tien Energy 99 Bar Egg Yolk|180g|3.95||
+p283|snack|北田 蜡笔小新 蒟蒻糙米卷 海苔味|Pei Tien Crayon Shin-chan Konjac Brown Rice Roll Seaweed|130g|3.95||
+p284|snack|北田 蜡笔小新 蒟蒻糙米卷 蛋黄味|Pei Tien Crayon Shin-chan Konjac Brown Rice Roll Egg Yolk|130g|3.95||
+p285|snack|北田 蜡笔小新 注心玉米棒|Pei Tien Crayon Shin-chan Filled Corn Sticks||3.75||价签未标净含量
+p286|snack|元朗 海苔味小蛋卷|Eulong Cookie Rolls Seaweed|100g|3.95||
+p287|snack|元朗 榴莲味小蛋卷|Eulong Cookie Rolls Durian|100g|3.95||
+p288||||||| skip=非商品照片（误拍的人像）
+p289||||||| skip=非商品照片（误拍的人像）
+p290|snack|元朗 芝士味小蛋卷|Eulong Cookie Rolls Cheese|100g|3.85||
+p291|snack|元朗 奶油味小蛋卷|Eulong Cookie Rolls Cream Butter|100g|3.85||
+p292|bakery|徐福记 凤梨酥 8枚|Hsu Fu Chi Pineapple Cake (8 pcs)|184g|3.85||

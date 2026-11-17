@@ -1,0 +1,8 @@
+target/
+.env
+.DS_Store
+logs/
+dist/
+backups/
+# 商品图体积大，不进 git；用 deploy/upload.sh（rsync）传到服务器
+uploads/

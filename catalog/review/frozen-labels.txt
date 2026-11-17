@@ -1,0 +1,98 @@
+# id|cat|name_zh|name_en|spec|price|promo|note|src
+f001|frozen|Lakovo 牛肉丸|Lakovo Beef Balls|500g|10.99|||p862
+f002|frozen|Lakovo 猪肉丸|Lakovo Pork Meatballs|500g|8.99|||p862
+f003|frozen|香源 火锅国宴 mini油条|Freshasia Hot Pot Mini Fried Dough Sticks|200g|3.95|||p862
+f004|frozen|Delief 釜山鱼饼卷|Delief Busan Fish Cake Roll|420g|7.20|||p862
+f005|frozen|蒙福 墨鱼卷|MF Cuttlefish Rolls|360g|6.80|||p863
+f006|frozen|鱼肉腐竹卷|Fish Bean Curd Roll|250g|6.80|||p863
+f007|frozen|Lucky 鱼豆腐|Lucky Fish Tofu|500g|7.80|||p863
+f008|frozen|蒙福 包心贡丸|MF Stuffed Pork Loin Balls|360g|6.80|||p863
+f009|frozen|蒙福 牛肉卷|MF Beef Slices (Hot Pot Rolls)|400g|14.50|||p864
+f010|frozen|Figo 白鱼丸|Figo White Fish Balls|400g|6.80|||p864
+f011|frozen|Hanss 韩式流心鱼籽仙桃|Hanss Fish Roe Peach Balls|200g|6.50|||p864
+f012|frozen|冰冻五香豆干|Frozen Beancurd Spice Flavor|200g|2.80|||p864
+f013|frozen|冰冻豆腐泡|Frozen Fried Tofu Bean Curd Puffs|150g|3.25|||p865
+f014|frozen|Asian Choice 冰冻去皮芋头|Asian Choice Frozen Peeled Taro|454g|3.80|||p865
+f015|frozen|Kami 冰冻藕片|Kami Frozen Lotus Root Slices|500g|3.50|||p865
+f016|frozen|冰冻泰国凹唇姜（手指姜）|Frozen Asian Finger Root (Krachai)|227g|3.50|||p865
+f017|frozen|TCT 冰冻沙姜片（南姜）|TCT Frozen Galanga Slices|200g|2.35||价签被遮挡，价格需到店确认|p865
+f018|frozen|BDMP 冰冻青柠叶|BDMP Frozen Lime Leaves|100g|3.25|||p866
+f019|frozen|冰冻苦瓜（整只去籽）|Frozen Bitter Melon Whole Deseeded|500g|3.50|||p866
+f020|frozen|Mooijer 冰冻红辣椒|Mooijer Frozen Red Chili Peppers|250g|4.50|||p866
+f021|frozen|Bua Luang 泰国冰冻金枕榴莲|Bua Luang Thai Frozen Monthong Durian|400g|16.95|||p866
+f022|frozen|Five Star 冰冻菠萝蜜|Five Star Frozen Jackfruit|500g|5.95|||p866
+f023|frozen|Golden Saba 蒸熟整只芭蕉|Golden Saba Steamed Whole Banana|454g|4.25|sale=2.99||p867
+f024|frozen|冰冻天贝|Frozen Tempeh|395g|2.95|||p867
+f025|frozen|第一家 春卷皮 190mm 50张|TYJ Spring Roll Pastry 190mm (50 Sheets)|550g|4.50|||p867
+f026|frozen|第一家 小春卷皮 125mm 50张|TYJ Spring Roll Pastry Small 125mm (50 Sheets)|250g|2.80|||p867
+f027|frozen|青岛 素春卷（清真）|Tsingtao Vegetable Spring Rolls (Vegan, Halal)|400g|3.00|||p867
+f028|frozen|Lakovo 越南猪皮肉卷 Giò Bì|Lakovo Pork Roll with Rind (Gio Bi)|500g|8.85|||p868
+f029|frozen|海藻沙拉（裙带菜）|Asia Seaweed Salad Wakame|100g|1.50|||p868
+f030|frozen|冰冻橙色鱼籽（多春鱼籽）|Frozen Masago Orange (Capelin Roe)|500g|15.00|sale=14.25||p868
+f031|frozen|福仔 炸云吞皮|Happy Boy Wonton Pastry for Deep Frying|250g|3.80|||p868
+f032|frozen|福仔 云吞皮|Happy Boy Wonton Pastry|200g|3.30|||p868
+f033|frozen|白菊 饺子皮|Shirakiku Gyoza Skins|300g|3.50|||p868
+f034|frozen|Big Bay 整只大虾 特大号 16/20|Big Bay Whole Shrimp 16/20 (Extra Large)|1kg（净750g）|14.80|||p871
+f035|frozen|Sea Ware 盒装美国鱿鱼|Sea Ware Calamari Blue Box|1kg|14.80|||p871
+f036|frozen|Fishermans 大号黑虎虾仁 16/20|Fishermans Black Tiger Shrimps Peeled 16/20|800g|19.50|||p871
+f037|frozen|冷冻鱿鱼花|Frozen Squid Flower (Matsukasa Cut)|1kg（净800g）|13.85|||p871
+f038|frozen|Seacon 净虾仁 中号 31/40|Seacon Peeled Shrimps 31/40 (Medium)|1kg（净800g）|14.50|||p872
+f039|frozen|Seacon 净虾仁 大号 21/25|Seacon Peeled Shrimps 21/25 (Large)|1kg（净800g）|16.80|sale=14.80||p872
+f040|frozen|Asian Choice 冰冻虾皮|Asian Choice Frozen Dried Baby Shrimp|300g|0||价签被遮挡，价格需到店确认|p872
+f041|frozen|超大罗氏虾 2头（整只带头）|Giant Freshwater Prawns HOSO 1/2|1kg|32.00|||p872
+f042|frozen|Star Pride 半切野生蓝蟹|Star Pride Wild Blue Crab Half Cut|1kg|14.50|||p872
+f043|frozen|整颗超大鱿鱼须|Extra Large Squid Tentacles|900g|14.50|-10%||p873
+f044|frozen|鱿鱼仔（墨鱼仔）40/60|Baby Sepia Cuttlefish 40/60|800g|13.85|||p873
+f045|frozen|Star Pride 鲭鱼/鲅鱼 3-4条|Star Pride Indian Mackerel (3-4 pcs)|1kg|9.85|||p873
+f046|frozen|Jona 金鲳鱼 500-600g/条|Jona Golden Pomfret 500-600g/pc|500-600g|8.50|||p874
+f047|frozen|东海带鱼段|Frozen Ribbon Fish Chunks|400g|7.95|-10%||p874
+f048|frozen|AquaGlobe 巴沙鱼片（白鱼片）|AquaGlobe Pangasius Fillet|1kg|6.50|-20%||p874
+f049|frozen|AquaGlobe 黑罗非鱼（去鳞去内脏）|AquaGlobe Black Tilapia Cleaned|整条|5.50|sale=5.00||p875
+f050|frozen|腌制虱目鱼 400-450g|Marinated Baby Milkfish 400-450g|400-450g|9.60|||p875
+f051|frozen|淡水野生小银鱼 5-7cm|Frozen Wild Silver Fish 5-7cm|200g|4.50|||p875
+f052|frozen|整条虱目鱼|Whole Milkfish|整条|9.50|sale=7.60||p875
+f053|frozen|Seacon 整只黑虎虾 大号 21/30|Seacon Black Tiger Shrimps Whole 21/30|1kg（净750g）|18.50|sale=14.80||p875
+f054|frozen|毛豆荚 原味|Edamame in Pods Original|400g|2.80|||p876
+f055|frozen|TCT 鲜虾烧卖|TCT Shrimp Siu Mai|500g|6.85|||p876
+f056|frozen|王牌 韩式辣白菜煎饺|Wang Kimchi Dumplings|675g|9.50|sale=8.00||p876
+f057|frozen|白菊 素煎饺（无麸质）|Shirakiku Vegetarian Gyoza Gluten-Free|600g|7.20|||p876
+f058|frozen|Marumatsu 日式素煎饺|Marumatsu Gyoza Vegetable|600g|6.50|||p876
+f059|frozen|Marumatsu 日式鸡肉煎饺|Marumatsu Gyoza Chicken|600g|7.20|||p876
+f060|frozen|香源 素水饺 豆皮芹菜|Freshasia Vegetable Dumplings Celery & Tofu Skin|450g|6.50|sale=4.55||p877
+f061|frozen|香源 鸡肉香菇水饺|Freshasia Chicken & Mushroom Dumplings|400g|7.30|||p877
+f062|frozen|香源 猪肉虾仁玉米水饺|Freshasia Pork, Prawn & Corn Dumplings|400g|8.30|||p877
+f063|frozen|香源 猪肉白菜水饺|Freshasia Pork & Chinese Cabbage Dumplings|400g|7.30|||p877
+f064|frozen|香源 猪肉韭菜水饺|Freshasia Pork & Chive Dumplings|400g|7.30|||p878
+f065|frozen|香源 牛肉洋葱水饺|Freshasia Beef & Onion Dumplings|400g|7.80|||p878
+f066|frozen|香源 羊肉胡萝卜水饺|Freshasia Lamb & Carrot Dumplings|400g|7.80|||p878
+f067|frozen|思念 放心油条|Synear Fried Dough Sticks (Youtiao)|450g|7.80|||p879
+f068|frozen|葡式蛋挞皮 20个|Portuguese Egg Tart Shells (20 pcs)|20×18g|5.80|||p879
+f069|frozen|HJ 韭菜馅饼|HJ Chive Pancake|460g|6.50|||p879
+f070|frozen|思念 葱香手抓饼|Synear Scallion Hand-Pulled Pancake|450g|5.50|||p879
+f071|frozen|香源 梅干菜素包|Freshasia Preserved Cabbage Bun (Vegan)|480g|6.80|||p880
+f072|frozen|香源 三丁手工素包|Freshasia Mushroom & Bamboo Shoot Bun (Vegan)|480g|6.80|||p880
+f073|frozen|香源 雪菜笋丝包|Freshasia Pickled Mustard & Bamboo Shoot Bun (Vegan)|480g|6.80|||p880
+f074|frozen|香源 大肉包|Freshasia Steamed Pork Bun|450g|7.50|||p880
+f075|frozen|TCT 灌汤小笼包 鸡肉|TCT Chicken Xiao Long Bao|300g|6.80|||p880
+f076|frozen|必品阁 韩式猪肉蔬菜小笼包|Bibigo Pork & Vegetable Buns|560g|8.50|||p881
+f077|frozen|思念 黑芝麻汤圆|Synear Glutinous Rice Balls Black Sesame|400g|5.80|||p881
+f078|frozen|中华 汤圆 椰子味|CHT Glutinous Rice Balls Coconut Flavor|200g|3.50|||p881
+f079|frozen|白菊 日本纳豆 3连包|Shirakiku Mini Hikiwari Natto (3-Pack)|171g|5.25|||p881
+f080|frozen|万德福 纯肉台湾烤肠 猪肉 大包|Wanderfort Taiwan BBQ Pork Sausage (Large)|1kg|16.80|||p881
+f081|frozen|万德福 纯肉台湾鸡肉烤肠|Wanderfort Taiwan BBQ Chicken Sausage|300g|6.80|||p881
+f082|frozen|万德福 纯肉台湾烤肠 猪肉|Wanderfort Taiwan BBQ Pork Sausage|300g|6.80|||p881
+f083|frozen|猪肘子|Pork Front Shank|按公斤|8.80|||p882
+f084|frozen|猪耳朵|Pork Ears|按公斤|7.95|||p882
+f085|frozen|猪蹄（前蹄）|Pork Front Feet|按公斤|4.50|||p882
+f086|frozen|冰冻猪肚|Frozen Pork Stomach|按公斤|9.60|||p883
+f087|frozen|冰冻猪大肠|Frozen Pork Large Intestine|900g|9.60|||p883
+f088|frozen|鸡爪|Chicken Feet|1kg|5.00|sale=4.50||p883
+f089|frozen|猪板油|Pork Cutting Fat (Leaf Lard)|按公斤|5.50|||p884
+f090|frozen|黑毛肚|Beef Omasum (Black Tripe)|800g|14.50|||p884
+f091|frozen|新西兰羔羊后腿棒|New Zealand Lamb Hind Shanks|按公斤|19.95|-10%||p884
+f092|frozen|整只光鸭|Frozen Whole Duck|2.4kg|20.50|||p885
+f093|frozen|Doux 老母鸡（整只）|Doux Whole Hen|1.3kg|6.49|||p885
+f094|frozen|黄油鸡|Frozen Butter Chicken (Yellow Chicken)|按公斤|8.85|||p885
+f095|frozen|鸭翅|Duck Wings|按公斤|6.50|-10%||p886
+f096|frozen|鸭胗|Duck Gizzards|1kg|8.85|-10%||p886
+f097|frozen|鸭爪|Duck Feet|约1kg|7.50|-10%||p886

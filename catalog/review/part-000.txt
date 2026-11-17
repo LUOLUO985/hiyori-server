@@ -1,0 +1,25 @@
+# id|cat|name_zh|name_en|spec|price|promo|note
+p101|kitchen|墨意斗笠碗 8寸|MoYi Ceramic Ramen Bowl 8"|8寸|8.80||
+p102|chilled|Unicurd 绢豆腐（红盒）|Unicurd Silken Tofu (Red Box)|300g|2.35||
+p103|chilled|Super Tahoe 真空老豆腐|Super Tahoe Firm Tofu|500g|2.50||
+p104|chilled|豆干（油炸豆腐）|Tau Kwa Fried Tofu|300g|3.50||
+p105|chilled|嘎嘎鸭 鸭血（火锅专用）|GGY Duck Blood for Hot Pot|300g|4.55||
+p106|chilled|裕丰 彩色糯玉米（熟制）|YuFeng Cooked Glutinous Corn Cob|220g|2.30||
+p107|fresh|金针菇|Enoki Mushroom|100g|0.99||
+p108|fresh|芥兰|Kai Lan (Chinese Broccoli)|500g|5.50||
+p109|fresh|新鲜龙眼|Fresh Longan|1kg|8.90||
+p110|fresh|新鲜苦瓜|Bitter Melon|按公斤|10.50|-10%|
+p111|fresh|白萝卜|White Radish|按公斤|2.80||
+p112|drink|加多宝 凉茶|JDB Herbal Tea|310ml|2.00|2件3€|整箱24罐 43.20€
+p113|drink|Old Jamaica 姜汁汽水（无酒精）|Old Jamaica Ginger Beer (0% alc.)|330ml|1.80|2件3€|整箱24罐 33.60€
+p114|drink|维他 柠檬茶|Vita Lemon Tea|250ml|1.60||
+p115|drink|RICO 珍珠奶茶 芋头味|RICO Bubble Milk Tea Taro|340ml|2.20||
+p116|drink|鲜悦 荔枝果汁|XY Lychee Juice Drink|380ml|2.60||
+p117|drink|王小珥 鲜炖银耳 桂花味|WXEr Stewed Tremella Osmanthus Flavor|198g|2.50||
+p118||||||| dup=p115
+p119|drink|麒麟 午后红茶 奶茶|Kirin Afternoon Tea Milk Tea|500ml|3.20||
+p120|drink|康师傅 炼乳奶茶（低糖）|Master Kong Condensed Milk Tea Low Sugar|500ml|2.95||
+p121|drink|康师傅 大红袍奶茶|Master Kong Da Hong Pao Oolong Milk Tea|500ml|2.95||
+p122|drink|东鹏特饮 维生素功能饮料|Eastroc Vitamin Energy Drink|500ml|2.95||
+p123|drink|康师傅 茉莉龙井 原味茶|Master Kong Jasmine Longjing Tea Original|500ml|2.80||
+p124|drink|三得利 铁观音乌龙茶（无糖）|Suntory Tieguanyin Oolong Tea No Sugar|500ml|2.80||

@@ -1,0 +1,24 @@
+p293|snack|Stik-O 威化蛋卷 巧克力味|Stik-O Wafer Sticks Chocolate|380g|6.35||
+p294|snack|徽记 7种谷物大米棒|HJ 7 Grain Crispy Rice Nuts Roll|320g|4.25|-10%|
+p295|snack|元朗 厚乳黄油蛋卷 礼盒|Eulong Thick Milk Butter Cookie Rolls Gift Tin|480g|16.80||
+p296|snack|葵花牌 山楂片|Sunflower Hawthorn Flakes|125g|1.80||
+p297|snack|Nanaco 椰果布丁 什锦装|Nanaco Nata de Coco Pudding Mix|480g|4.50||
+p298|snack|旺旺 碎冰冰 8支装|Want Want Ice Bar (8 pcs)|8×78ml|3.60||
+p299|snack|Jele 轻盈果冻杯 草莓味|Jele Light Jelly Cup Strawberry|6×125g|4.50||
+p300|snack|Jele 轻盈果冻杯 蓝莓味|Jele Light Jelly Cup Blueberry|6×125g|4.50||
+p301|snack|Jele 轻盈果冻杯 荔枝味|Jele Light Jelly Cup Lychee|6×125g|4.50||
+p302|snack|喜之郎 CC果冻爽 蜜桃味|XZL Cici Fruit Jelly Drink Peach|150g|1.25||
+p303|snack|喜之郎 CC果冻爽 葡萄味|XZL Cici Fruit Jelly Drink Grape|150g|1.25||
+p304|snack|喜之郎 CC果冻爽 芒果味|XZL Cici Fruit Jelly Drink Mango|150g|1.25||
+p305|snack|喜之郎 CC果冻爽 荔枝味|XZL Cici Fruit Jelly Drink Lychee|150g|1.25||
+p306||||||| dup=p151
+p307|sauce|Lobo 泰式椰奶鸡汤酱|Lobo Tom Ka Paste|50g|1.60||
+p308|sauce|Lobo 沙爹酱调料粉|Lobo Satay Sauce Mix|50g|1.40||
+p309|sauce|Lobo 泰式香兰吉士粉|Lobo Thai Custard Mix Pandan Flavor|120g|2.50||
+p310|sauce|Lobo 泰式酸肉调味粉|Lobo Nam Powder Seasoning Mix|70g|1.95||
+p311|sauce|Lobo 泰式炒河粉酱|Lobo Pad Thai Stir-Fry Sauce|120g|1.95||
+p312|sauce|Mama Sita's 罗望子酸汤调料|Mama Sita's Tamarind Seasoning Mix (Sinigang)|50g|1.80||
+p313|sauce|FaThai 浓缩粉面汤底 红汤|FaThai Concentrated Noodle Soup Brown Soup|350g|3.00||
+p314|sauce|FaThai 浓缩粉面汤底 清汤|FaThai Concentrated Noodle Soup Clear Soup|350g|3.00||
+p315|sauce|Pantai 虾酱|Pantai Shrimp Paste (Kapi)|100g|2.85||
+p316|sauce|公鸡牌 冬阴功酱|Cock Brand Tom Yum Paste|454g|5.50||

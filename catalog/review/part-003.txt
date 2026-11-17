@@ -1,0 +1,24 @@
+p125|drink|三得利 乌龙茶（原味）|Suntory Original Oolong Tea|500ml|2.80||
+p126|drink|康师傅 绿茶（低糖）|Master Kong Green Tea Low Sugar|550ml|2.80|-10%|
+p127|drink|康师傅 茉莉柚茶|Master Kong Jasmine Pomelo Tea|500ml|2.80||
+p128|drink|康师傅 白桃乌龙茶（低糖）|Master Kong Peach Oolong Tea Low Sugar|500ml|2.80||
+p129|drink|康师傅 冰红茶|Master Kong Ice Black Tea|500ml|2.80||
+p130|drink|维他 柠檬茶 6连包|Vita Lemon Tea 6-Pack|6×250ml|8.50||
+p131|drink|康师傅 冰绿茶|Master Kong Ice Green Tea|1L|5.50||
+p132|drink|康师傅 茉莉清茶（低糖）|Master Kong Jasmine Tea Low Sugar|1L|6.50|sale=3.95|
+p133|drink|康师傅 酸梅汤|Master Kong Sour Plum Drink|1L|6.50|sale=3.95|手写特价不够清晰
+p134|snack|Tuan Dat 芒果干|Tuan Dat Dried Mango|100g|2.25||
+p135|snack|Tuan Dat 混合软果干|Tuan Dat Dried Soft Mixed Fruit|100g|2.45||
+p136|snack|佳宝 九制陈皮|JiaBao Preserved Mandarin Peel|45g|1.80|买1送1|
+p137|snack|Tuan Dat 综合水果脆片|Tuan Dat Mixed Fruit Chips|100g|2.80||
+p138|snack|NLF 木瓜干|Nonglamfood Soft Dried Papaya|100g|2.25||
+p139|snack|Tuan Dat 红心芭乐干|Tuan Dat Dried Guava|100g|3.00||
+p140|snack|黄飞红 芥末花生|HFH Wasabi Peanuts|110g|2.50|sale=1.80|
+p141|snack|W.L 香脆玉米 烧烤味|W.L Corn Bits BBQ Flavor|70g|1.25|sale=0.99|
+p142|snack|春日井 芥末青豆|Kasugai Roasted Green Peas Wasabi|67g|3.25||
+p143|snack|旺旺 挑豆 麻辣花生|Want Want Mala Spicy Peanuts|42g|1.60||
+p144|snack|比比赞 倒蒸红薯干|Bibizan Steamed Dried Sweet Potato|250g|4.50||
+p145|snack|洽洽 焦糖瓜子|ChaCha Sunflower Seeds Caramel|160g|3.50||
+p146|snack|洽洽 山核桃瓜子|ChaCha Sunflower Seeds Pecan Flavor|160g|3.50||
+p147|snack|洽洽 香瓜子|ChaCha Sunflower Seeds Spiced|228g|3.80||
+p148|snack|华味亨 话梅西瓜子|HWH Watermelon Seeds Plum Flavor|138g|3.60||

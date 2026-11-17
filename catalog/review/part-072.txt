@@ -1,0 +1,24 @@
+p677|sauce|老干妈 油辣椒（花生）大瓶|Lao Gan Ma Peanuts in Chili Oil (Large Jar)|730g|12.80||
+p678|sauce|李锦记 蒜蓉辣椒酱|Lee Kum Kee Chili Garlic Sauce|368g|4.50||
+p679|sauce|坛坛乡 精制剁辣椒|Tantanxiang Chopped Chili|210g|3.50||
+p680|sauce|川南 油辣子|ChuanNan Chili Oil|327g|5.50||
+p681|sauce|老干妈 香辣脆油辣椒|Lao Gan Ma Crispy Chili Oil|210g|4.50||
+p682|canned|惠川 红油笋丝|HuiChuan Bamboo Shoots with Red Chili Oil|66g|1.60||
+p683|canned|惠川 红油豇豆|HuiChuan Cowpea with Red Chili Oil|103g|1.50||
+p684|canned|川南 红油榨菜|ChuanNan Preserved Vegetables with Chili Oil|123g|1.80||
+p685|canned|鱼泉 脆口爽榨菜|Yuquan Crispy Preserved Mustard Stem|118g|1.30||
+p686|canned|鱼泉 老坛酸菜 原味|Yuquan Preserved Mustard Leaf Original|70g|0.70||
+p687|canned|鱼泉 双椒脆榨菜|Yuquan Preserved Mustard Double Chili Crispy|80g|0.95|-20%|
+p688|canned|鱼泉 轻盐红油榨菜|Yuquan Low-Salt Mustard Stem with Chili Oil|60g|0.70||
+p689|canned|梅林 优质火腿午餐肉|Ma Ling Premium Luncheon Meat|340g|5.80||
+p690|canned|蓬盛 香港橄榄菜|Pengsheng Hong Kong Olive Vegetable Pickles|180g|2.50||
+p691|sauce|吉香居 香菇酱 原味|Jixiangju Mushroom Sauce Original|240g|3.50||图片中是相邻的海天招牌拌饭酱，建议重拍
+p692|sauce|仲景 香菇酱 原味|Zhongjing Shiitake Mushroom Sauce Original|230g|4.25||
+p693|canned|六必居 桂花糖蒜|Liubiju Osmanthus Sweet Pickled Garlic|290g|5.69||
+p694|sauce|海天 海鲜酱 挤挤瓶|Haday Hoisin Sauce Squeeze Bottle|609g|5.50||
+p695|sauce|李锦记 海鲜酱|Lee Kum Kee Hoisin Sauce|397g|4.50||
+p696|sauce|李锦记 叉烧酱|Lee Kum Kee Char Siu Sauce|397g|4.50||
+p697|sauce|李锦记 蒜蓉豆豉酱|Lee Kum Kee Black Bean Garlic Sauce|368g|4.50||
+p698|sauce|李锦记 排骨酱|Lee Kum Kee Spare Rib Sauce|397g|4.50||
+p699|sauce|杨协成 沙爹酱|Yeo's Satay Sauce|270g|5.00|-15%|
+p700|sauce|美珍 柱侯酱|Mee Chun Chu Hou Sauce|450g|5.80||

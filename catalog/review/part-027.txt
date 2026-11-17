@@ -1,0 +1,24 @@
+p317|sauce|Por Kwan 罗望子酱|Por Kwan Tamarind Paste|227g|3.25||
+p318|sauce|Mumtaz 罗望子膏（酸角块）|Mumtaz Tamarind Block|454g|3.85||
+p319|sauce|FaThai 鸡味调味粉|FaThai Seasoning Powder Chicken|400g|6.85||
+p320|sauce|FaThai 猪肉味调味粉|FaThai Seasoning Powder Pork|400g|6.85||
+p321|sauce|太太乐 鸡精|Totole Chicken Bouillon Powder|200g|3.50||
+p322|sauce|味之素 味精|Ajinomoto MSG (Monosodium Glutamate)|454g|3.75||
+p323|sauce|家乐 浓汤宝 鸡味汤块|Knorr Bouillon Cubes Chicken Flavor|72g|1.35|sale=0.99|
+p324|sauce|莲花 味精|Lotus MSG|200g|2.00||
+p325|rice|水磨糯米粉|Glutinous Rice Flour|400g|2.50||价签品牌写 Farmer，图中包装为公鸡牌
+p326|rice|公鸡牌 水磨粘米粉|Cock Brand White Rice Flour|400g|2.50||
+p327|rice|TD 小西米|TD Tapioca Pearls (Small)|454g|2.90||
+p328|sauce|公鸡牌 红咖喱酱|Cock Brand Red Curry Paste|400g|4.50||
+p329|sauce|公鸡牌 黄咖喱酱|Cock Brand Yellow Curry Paste|400g|4.50||
+p330|sauce|公鸡牌 帕能咖喱酱|Cock Brand Panang Curry Paste|400g|4.50||
+p331|sauce|公鸡牌 绿咖喱酱（纯素）|Cock Brand Green Curry Paste (Vegan)|400g|4.50||
+p332|sauce|Lobo 泰式香叶（打抛）酱|Lobo Holy Basil Seasoning Paste|400g|5.00||
+p333|sauce|Madam Pum 浓缩罗望子汁|Madam Pum Concentrated Cooking Tamarind|450ml|5.35||
+p334|sauce|Pantai 豆腐乳寿喜烧酱|Pantai Soya Bean Curd Sauce (Sukiyaki)|300ml|3.95||
+p335|sauce|Maeboonlam 沙拉专用臭鱼露|Maeboonlam Fermented Fish Sauce for Papaya Salad|400ml|4.50||
+p336|sauce|Zab Mike 发酵鱼露|Zab Mike Fermented Fish Sauce|350ml|4.45||
+p337|sauce|金龟牌 青柠汁|Golden Turtle Lime Juice|250ml|2.00||
+p338|sauce|O'Food 韩式烤牛肉酱|O'Food Beef Bulgogi Marinade|280g|2.80||
+p339|sauce|肥儿牌 泰式青梅酱（酸甜）|Healthy Boy Sweet & Sour Plum Sauce|880g|4.85||
+p340|sauce|肥儿牌 香菇素食蚝油|Healthy Boy Mushroom Vegetarian Oyster Sauce|800g|5.85|sale=5.25|

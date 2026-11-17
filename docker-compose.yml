@@ -1,0 +1,55 @@
+# 服务器上一键启动：MySQL + 后端（按 2 核 2G 的服务器调过内存）
+#   第一次：sudo bash deploy/server-setup.sh   （装环境、生成 .env）
+#   之后：  docker compose up -d --build
+services:
+  mysql:
+    image: mysql:8.4
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: hiyori
+      MYSQL_USER: hiyori
+      MYSQL_PASSWORD: ${DB_PASSWORD}
+      MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
+      TZ: Europe/Helsinki
+    # 小内存配置：数据量很小（几千行），不需要 MySQL 默认的大缓存
+    command:
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_unicode_ci
+      - --innodb-buffer-pool-size=64M
+      - --innodb-log-buffer-size=8M
+      - --performance-schema=OFF
+      - --max-connections=40
+      - --table-open-cache=200
+      - --key-buffer-size=8M
+    volumes:
+      - mysql-data:/var/lib/mysql
+    mem_limit: 512m
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 5s
+      retries: 30
+    logging: &logs
+      driver: json-file
+      options: { max-size: "10m", max-file: "3" }
+
+  server:
+    build: .
+    restart: unless-stopped
+    depends_on:
+      mysql:
+        condition: service_healthy
+    env_file: .env
+    environment:
+      DB_HOST: mysql
+      APP_UPLOAD_DIR: /data/uploads
+    volumes:
+      # 商品图就是本目录下的 uploads/（Nginx 也直接从这里读）
+      - ./uploads:/data/uploads
+    mem_limit: 640m
+    # 只监听本机，对外由 Nginx 转发
+    ports:
+      - "127.0.0.1:8080:8080"
+    logging: *logs
+
+volumes:
+  mysql-data:

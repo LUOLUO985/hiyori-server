@@ -1,0 +1,24 @@
+p605|daily|礼品丝带卷 蓝色 1.5cm×25m|Gift Ribbon Roll Blue 1.5cm × 25m|1.5cm×25m|2.20||
+p606|daily|礼品丝带卷 紫色 1.5cm×25m|Gift Ribbon Roll Purple 1.5cm × 25m|1.5cm×25m|2.20||
+p607|daily|礼品丝带卷 金色 1.5cm×18m|Gift Ribbon Roll Gold 1.5cm × 18m|1.5cm×18m|2.45||
+p608|daily|闪粉礼品丝带卷 0.7cm×18m|Glitter Gift Ribbon Roll 0.7cm × 18m|0.7cm×18m|1.95||
+p609|daily|礼品袋 Super Show 复古车款 S号|Gift Bag Super Show (S)|S|3.95|sale=2.77|
+p610|daily|铝膜气球 超级英雄生日仔|Foil Balloon Super Hero Birthday|74×52cm|5.99||
+p611|daily|铝膜气球 青蛙王子|Foil Balloon Frog Prince|59×64cm|2.95||
+p612|daily|铝膜气球 宇航员|Foil Balloon Astronaut|55×82cm|4.49||
+p613|daily|铝膜气球 粉色小猪|Foil Balloon Pink Pig|54×58cm|4.99||价签模糊，价格需到店确认
+p614|daily|铝膜气球 玫红爱心|Foil Balloon Heart Magenta|61cm|4.99|sale=3.49|
+p615|daily|铝膜气球 红色爱心|Foil Balloon Heart Red|61cm|4.99|sale=3.49|
+p616|daily|铝膜气球 金色爱心|Foil Balloon Heart Gold|61cm|4.99|sale=3.49|
+p617|daily|铝膜气球 金色爱心 3只装|Foil Balloons Gold Hearts (3 pcs)|45cm×3|3.99|sale=2.79|
+p618|daily|铝膜气球 金属色爱心 6只装|Foil Balloons Metallic Hearts (6 pcs)|6只|3.90|sale=2.73|
+p619|daily|铝膜气球 红色镂空大爱心|Foil Balloon Large Red Heart|100×108cm|5.99|sale=4.19|
+p620|daily|铝膜气球 情侣心（新郎新娘）|Foil Balloon Couple Hearts (Bride & Groom)|90×71cm|3.99|sale=2.79|
+p621|daily|铝膜气球 月亮星星|Foil Balloon Moon & Stars||4.99|sale=3.49|价签模糊，名称和价格需到店确认
+p622|daily|铝膜气球 甜甜圈|Foil Balloon Donut|75×70cm|2.75|sale=1.92|
+p623|daily|冰雪奇缘2 铝膜气球|Frozen II Foil Balloon|46cm|5.99||
+p624|daily|铝膜气球 蓝色星星 3只装|Foil Balloons Blue Stars (3 pcs)|45cm×3|3.99|sale=2.79|
+p625|daily|铝膜气球 Baby Shower 云朵|Foil Balloon Baby Shower Cloud|62.5×66.5cm|4.99|sale=3.49|
+p626|daily|铝膜气球 梦幻独角兽热气球|Foil Balloon Fantasy Unicorn|52×80cm|6.99|sale=4.89|
+p627|daily|透明波波球 It's a Boy|Bubble Balloon It's a Boy|45cm|3.99||
+p628|daily|透明波波球 It's a Girl|Bubble Balloon It's a Girl|45cm|3.99||

@@ -1,0 +1,24 @@
+p581||||||| dup=p549
+p582||||||| dup=p548
+p583|drink|Caffebene 韩国青葡萄冰饮|Caffebene Green Grape Ade|190ml|2.80|sale=1.80|
+p584|drink|统一 鲜橙多|Uni-President Orange Juice Drink|450ml|2.35||
+p585|drink|Mabu Coco 椰果果汁 橙子味|Mabu Coco Orange Juice with Nata de Coco|320ml|1.80||
+p586|drink|Mabu Coco 椰果果汁 葡萄味|Mabu Coco Grape Juice with Nata de Coco|320ml|1.80||
+p587|drink|Mabu Coco 椰果果汁 芒果味|Mabu Coco Mango Juice with Nata de Coco|320ml|1.80||同框还有哈密瓜味，同价
+p588||||||| dup=p539
+p589||||||| dup=p537
+p590||||||| dup=p536
+p591||||||| dup=p545
+p592|drink|妙计 金桂乌梅植物饮料（低糖）|MJ Osmanthus Plum Plant-Based Drink Low Sugar|500ml|3.20||
+p593||||||| dup=p546
+p594|drink|OKF Aloe Vera King 原味芦荟汁|OKF Aloe Vera King Drink Original|1.5L|6.80|sale=5.80|
+p595|drink|竹树牌 纯椰子水|Bamboo Tree Coconut Water|1L|4.80|2件-10%|
+p596|daily|礼品袋 闪亮款 L号|Gift Bag Shining (L)|L|4.95|sale=3.22|
+p597||||||| dup=p596
+p598|daily|礼品袋 星球款 L号|Gift Bag Planet (L)|L|4.95|sale=3.47|
+p599|daily|礼品袋 炫彩款 S号|Gift Bag Super Colorful (S)|S|3.95|sale=2.57|
+p600|daily|礼品袋 Thanks & Hope款 S号|Gift Bag Thanks & Hope (S)|S|3.95|sale=2.77|
+p601|daily|礼品袋 派对菱格款 S号|Gift Bag Party (S)|S|3.95|sale=2.77|
+p602|daily|礼品袋 生日快乐款 L号|Gift Bag Happy Birthday (L)|L|4.95|sale=3.47|
+p603|daily|礼品袋 宝宝款 L号|Gift Bag Baby (L)|L|4.95|sale=3.47|
+p604|daily|礼品丝带卷 1cm×25m|Gift Ribbon Roll 1cm × 25m|1cm×25m|1.95||

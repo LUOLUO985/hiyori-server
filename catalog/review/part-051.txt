@@ -1,0 +1,24 @@
+p509|drink|椰树牌 椰汁|Yeshu Coconut Juice|245ml|2.45||整箱24罐 42.00€
+p510|drink|露露 杏仁露|Lulu Almond Drink|240ml|2.45||整箱20罐 36.00€
+p511|drink|娃哈哈 AD钙奶 4瓶装|Wahaha AD Calcium Milk Drink (4 Bottles)|4×220g|5.50||
+p512|canned|娃哈哈 桂圆莲子八宝粥|Wahaha Mixed Rice Congee with Longan & Lotus Seeds|360g|2.50||
+p513|canned|银鹭 桂圆莲子八宝粥|Yinlu Eight Treasures Congee with Longan & Lotus Seeds|360g|2.50||
+p514|canned|银鹭 好粥道 薏仁红豆粥|Yinlu Congee with Adzuki Bean & Pearl Barley|280g|2.00||
+p515|canned|银鹭 好粥道 紫薯紫米粥|Yinlu Congee with Black Glutinous Rice & Purple Sweet Potato|280g|2.00||
+p516|canned|喜多多 椰果王|XDD Coconut Jelly (Nata de Coco)|200g|2.00|sale=1.60|
+p517|canned|喜多多 鲜炖银耳百合（0添加）|XDD Stewed Tremella & Lily Dessert|200g|2.20|sale=1.76|
+p518||||||| dup=p116
+p519||||||| dup=p113
+p520||||||| dup=p112
+p521|drink|HIGH UP 鬼灭之刃 弹珠汽水 葡萄和果子味|High Up Demon Slayer Ramune Sparkling Water Grape Wagashi|330ml|2.85||罐身图案随机
+p522||||||| dup=p521
+p523||||||| dup=p521
+p524||||||| dup=p521
+p525|drink|HIGH UP 鬼灭之刃 弹珠汽水 柠檬草莓味|High Up Demon Slayer Ramune Sparkling Water Strawberry Lemonade|330ml|2.85||罐身图案随机
+p526||||||| dup=p525
+p527||||||| dup=p525
+p528|drink|乐天 Milkis 牛奶苏打 哈密瓜味|Lotte Milkis Cream Soda Melon|250ml|1.95|2件3€|
+p529|drink|乐天 Milkis 牛奶苏打 草莓味|Lotte Milkis Cream Soda Strawberry|250ml|1.95|2件3€|
+p530|drink|OKF 苏打汽水 柠檬味|OKF Sparkling Water Lemon|350ml|1.95||
+p531|drink|OKF 苏打汽水 哈密瓜味|OKF Sparkling Water Melon|350ml|1.95||
+p532|drink|OKF 苏打汽水 草莓味|OKF Sparkling Water Strawberry|350ml|1.95||

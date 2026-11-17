@@ -1,0 +1,24 @@
+p173|snack|佳龙 鲜笋魔芋爽 香辣味|JiaLong Fresh Bamboo Shoot Konjac Spicy|22g|0.35|4件1€|
+p174|snack|Kimho 海苔夹心脆片 香椰味|Kimho Seaweed Sandwich Coconut Flavor|20g|2.60|sale=1.60|
+p175|snack|Kimho 海苔夹心脆片 芝麻味|Kimho Seaweed Sandwich Sesame Flavor|20g|2.60|sale=1.60|
+p176|snack|源氏 三根辣条 麻辣味|Henki Gluten Latiao Mala Spicy|120g|1.85||
+p177|snack|劲仔 小鱼 酱汁味（不辣）|Jinzai Anchovy Snack Sauce Flavor (Not Spicy)|110g|4.50||
+p178||||||| dup=p156
+p179|snack|Dorkbua 鸡腿饼干条 香辣味|Dorkbua Drumstick Biscuit Sticks Hot & Spicy|110g|2.60||
+p180|snack|Bento 泰式海鲜鱿鱼片 辣青柠味|Bento Squid Seafood Snack Super Spicy Lime|36g|1.95||
+p181|snack|Bento 泰式海鲜鱿鱼片 甜辣味|Bento Squid Seafood Snack Sweet & Spicy|20g|1.80||
+p182|snack|Bento 泰式海鲜鱿鱼片 变态辣|Bento Squid Seafood Snack Angry Spicy|36g|2.15||
+p183|snack|Carada 米球 鱿鱼味|Carada Rice Balls Squid Flavor|52g|2.60||
+p184||||||| dup=p143
+p185||||||| dup=p141
+p186|snack|Coco Jas 泰式椰香脆卷 香兰味|Coco Jas Crispy Rice Roll Pandan|100g|4.80||
+p187|snack|农心 虾条 原味|Nongshim Shrimp Crackers Original|75g|2.35||
+p188|snack|农心 辣虾条|Nongshim Shrimp Crackers Hot & Spicy|75g|2.35||
+p189|snack|三养 火鸡薯片 辣椒青柠味|Samyang Buldak Potato Chips Habanero Lime|55g|3.40||
+p190|snack|湖池屋 Karamucho 辣味薯条|Koikeya Karamucho Potato Sticks Hot Chili|90g|3.40|sale=2.72|
+p191|snack|湖池屋 薯片 芥末海苔味|Koikeya Potato Chips Wasabi Nori|100g|2.80||
+p192|snack|湖池屋 薯片 酸梅味|Koikeya Potato Chips Pickled Plum|100g|2.80||
+p193|snack|乐事 薯片 麻辣香锅味|Lay's Potato Chips Mala Hot Pot Flavor|70g|3.00||
+p194|snack|乐事 薯片 得克萨斯烤肉味|Lay's Potato Chips Texas Grilled BBQ|70g|3.00||
+p195|snack|乐事 薯片 意大利香浓红烩味|Lay's Potato Chips Italian Red Meat Flavor|70g|3.00||
+p196|snack|乐事 薯片 岩烧海苔味|Lay's Potato Chips Seaweed Flavor|70g|3.00||

@@ -1,0 +1,24 @@
+p437|rice|天鹅牌 AAA级白糯米|Sky Swan AAA Glutinous Rice|1kg|3.95||
+p438|rice|Royal Thai 皇家上等香糙米|Royal Thai Cargo Brown Rice|1kg|4.85||
+p439|rice|Royal Thai 上等黑米|Royal Thai Black Cargo Rice (Riceberry)|1kg|6.45||价签与旁边黑糯米互换位置，按包装核对
+p440|rice|Royal Thai 顶上黑糯米|Royal Thai Black Glutinous Rice|1kg|6.45||
+p441|rice|双象牌 顶级白糯米|Double Elephant Glutinous Rice|5kg|15.55||
+p442|rice|天鹅牌 泰国茉莉香米 大袋|Sky Swan Thai Jasmine Rice Large Bag|5kg|14.25||大袋价签未完整入镜，规格与价格需到店确认
+p443|dry|川珍 黄花菜|ChuanZhen Dried Daylily Flowers|150g|8.50||
+p444||||||| dup=p223
+p445||||||| dup=p433
+p446|dry|华海顺达 东北木耳|HHSD Dried Black Fungus|40g|3.25||
+p447|dry|筷来筷往 大红枣|KLKW Red Dates (Jujube)|454g|6.80|sale=5.80|
+p448||||||| dup=p230
+p449|dry|鲜珥家 干香菇|XEJ Dried Shiitake Mushrooms|100g|4.80|sale=3.85|
+p450|dry|华海顺达 虫草花|HHSD Dried Cordyceps Flower|75g|4.80||
+p451|dry|川珍 银耳|ChuanZhen Dried Snow Fungus|80g|5.50||
+p452|drink|中原 G7 三合一速溶咖啡 20条|Trung Nguyen G7 3-in-1 Instant Coffee (20 Sachets)|320g|6.80||
+p453|drink|中原 G7 速溶黑咖啡 15条|Trung Nguyen G7 Instant Pure Black Coffee (15 Sachets)|30g|3.80||
+p454|drink|中原 Creative 1 研磨咖啡粉|Trung Nguyen Creative 1 Ground Coffee|250g|5.20||
+p455|drink|松树牌 人参精口服液|Pine Brand Panax Ginseng Extractum|10×10ml|9.95||
+p456|drink|京都念慈菴 蜜炼川贝枇杷膏|Nin Jiom Pei Pa Koa Herbal Syrup|300ml|12.50||
+p457|drink|恒寿堂 蜜桃乌龙茶（蜜炼果茶）|Hengshoutang Peach Oolong Honey Tea|500g|6.95|-10%|
+p458|drink|恒寿堂 蜜炼百香果茶|Hengshoutang Passion Fruit Honey Tea|500g|6.50|-10%|
+p459|drink|Allgroo 韩国柚子茶|Allgroo Korean Yuzu Tea|400g|6.80|-10%|
+p460|sauce|云峰 糖桂花|Yunfeng Osmanthus Syrup|320g|4.80||

@@ -1,0 +1,24 @@
+p197|snack|乐事 大波浪薯片 香脆烤鸡翅味|Lay's Wavy Potato Chips Roasted Chicken Wings|70g|3.00||
+p198|snack|Golden Chef 酸子糖（罗望子糖）|Golden Chef Tamarind Candy|200g|2.80||
+p199|snack|旺旺 QQ浆爆 柠檬苏打味夹心软糖|Want Want QQ Gummy Lemon Soda Filling|72g|1.95||
+p200|snack|Esprezzo 黑咖啡夹心糖|Esprezzo Coffee Candy Black|150g|2.55||
+p201|snack|春光 芭乐椰奶硬糖|ChunGuang Guava Coconut Candy|78g|2.20||
+p202|snack|Gingerbon 姜糖 蜂蜜柠檬味|Gingerbon Ginger Candy Honey Lemon|125g|2.20||
+p203|snack|京京乐道 Ennjoi 剥皮软糖2.0 白桃味|Ennjoi Peelable Gummy 2.0 White Peach|62g|2.70||
+p204|snack|好丽友 剥皮葡萄软糖|Orion Peelable Grape Gummy|81g|2.60||
+p205|snack|京京乐道 Ennjoi 盲盒剥皮软糖 混合水果味|Ennjoi Mystery Box Peelable Gummy Mixed Fruit|62g|2.70|3件-15%|
+p206|snack|京京乐道 Ennjoi 丸子串造型软糖 草莓味|Ennjoi Dango Skewer Gummy Strawberry|60g|2.50|2件-10%|
+p207|snack|万代 海贼王 4D恶魔果实软糖|Bandai One Piece 4D Gummy Devil Fruit|38g|2.80||
+p208|snack|京京乐道 Ennjoi 猫爪软糖 超酸西柚味|Ennjoi Cat Paw Gummy Grapefruit Super Sour|70g|2.60||价签有手写多件折扣但看不清
+p209|snack|旺仔 QQ糖 葡萄味|Want Want QQ Gummy Candy Grape|70g|1.65||
+p210|snack|旺仔 QQ糖 荔枝味|Want Want QQ Gummy Candy Lychee|70g|1.65|sale=1.32|
+p211|snack|旺仔 QQ糖 可乐味|Want Want QQ Gummy Candy Cola|70g|1.65||
+p212|snack|Esprezzo 香草咖啡夹心糖|Esprezzo Coffee Candy Vanilla|150g|2.55||
+p213||||||| dup=p200
+p214|snack|Esprezzo 摩卡咖啡夹心糖|Esprezzo Coffee Candy Mocha|150g|2.55||
+p215|snack|龙角散 润喉糖 原味|Ryukakusan Herbal Throat Lozenges Original|88g|4.50||
+p216|snack|大白兔奶糖|White Rabbit Creamy Candies|108g|2.50||
+p217|hotpot|好人家 大红袍红汤火锅底料|HRJ Da Hong Pao Hot Pot Base Red Chili Spicy|150g|3.80||
+p218|hotpot|好人家 涮牛羊肉火锅底料（不辣）|HRJ Hot Pot Soup Base for Beef & Lamb (Non-Spicy)|220g|4.50||
+p219|hotpot|好人家 鲜番茄火锅底料|HRJ Fresh Tomato Hot Pot Soup Base|200g|4.50||
+p220|hotpot|小龙坎 红汤四粒装火锅底料|Shoo Loong Kan Red Chili Oil Hot Pot Base (4 Cubes)|320g|7.50||

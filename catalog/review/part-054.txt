@@ -1,0 +1,24 @@
+p533|drink|广氏 低糖荔枝味汽水|Guang's Low-Sugar Lychee Soda|330ml|2.20||
+p534|drink|广氏 橙宝橙味汽水|Guang's Orange Soda|330ml|2.20||
+p535|drink|杨协成 甘蔗水|Yeo's Sugarcane Juice Drink|300ml|2.20||
+p536|drink|珍宝珠 气泡饮料 草莓奶油味|Chupa Chups Sparkling Drink Strawberry & Cream|345ml|2.50||
+p537|drink|珍宝珠 气泡饮料 葡萄味|Chupa Chups Sparkling Drink Grape|345ml|2.50||
+p538|drink|珍宝珠 气泡饮料 樱桃泡泡糖味|Chupa Chups Sparkling Drink Cherry Bubble Gum|345ml|2.50||
+p539|drink|珍宝珠 气泡饮料 西瓜味|Chupa Chups Sparkling Drink Watermelon|345ml|2.50||
+p540|drink|元气森林 气泡水 白桃味|Chi Forest Sparkling Water White Peach|330ml|2.20||
+p541|drink|元气森林 气泡水 葡萄味|Chi Forest Sparkling Water Grape|330ml|2.20||
+p542|drink|Hata 日本波子汽水 蓝莓味|Hata Ramune Soda Blueberry|200ml|2.20||
+p543|drink|Hata 日本波子汽水 柚子味|Hata Ramune Soda Yuzu|200ml|2.20||
+p544|drink|Hata 日本波子汽水 白桃味|Hata Ramune Soda White Peach|200ml|2.20||
+p545|drink|元气森林 慢熬 乌梅山楂饮（低糖）|Chi Forest Plum & Hawthorn Plant-Based Drink Low Sugar|500ml|2.50||
+p546|drink|元气森林 慢熬 枇杷雪梨饮（低糖）|Chi Forest Pear & Loquat Plant-Based Drink Low Sugar|500ml|2.50||
+p547|drink|Cantabile 榛果冰咖啡|Cantabile Hazelnut Ice Coffee|230ml|2.80|sale=1.95|
+p548|drink|Caffebene 韩国菠萝冰饮|Caffebene Pineapple Ade|190ml|2.80|sale=1.50|
+p549|drink|Caffebene 韩国蜜桃冰茶|Caffebene Peach Ice Tea|190ml|2.80|sale=1.80|
+p550|drink|Caffebene 韩国西瓜冰饮|Caffebene Watermelon Ade|190ml|2.80|sale=1.80|
+p551||||||| dup=p548
+p552|drink|乐天 Milkis 牛奶苏打 香蕉味|Lotte Milkis Cream Soda Banana|250ml|1.95|2件3€|冰柜合照，同框还有草莓味和哈密瓜味
+p553|drink|乐天 七星汽水 柠檬青柠味|Lotte Chilsung Cider Lemon & Lime Soda|250ml|1.50||
+p554|drink|杨协成 马蹄爽|Yeo's Water Chestnut Drink|300ml|2.20||
+p555||||||| dup=p535
+p556|drink|广氏 菠萝啤（0°果味汽水）|Guang's Pineapple Beer Soda (0% alc.)|330ml|2.20||
